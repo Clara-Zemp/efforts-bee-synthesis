@@ -1,0 +1,1065 @@
+"PlotID","Lat","Long","Size","Treatment","DivLev","Composition","Nb_planted_trees","Function","value"
+1,-1.942,103.252,40,"Island",1,"A",400,"Oil palm yield",0.535
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Oil palm yield",0.538
+3,-1.943,103.252,20,"Island",2,"CD",100,"Oil palm yield",0.617
+4,-1.943,103.253,10,"Island",1,"F",25,"Oil palm yield",0.478
+5,-1.945,103.252,40,"Island",1,"B",400,"Oil palm yield",0.981
+6,-1.945,103.253,5,"Island",1,"E",6,"Oil palm yield",0.494
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Oil palm yield",0.478
+8,-1.946,103.249,5,"Island",1,"F",6,"Oil palm yield",0.507
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Oil palm yield",0.526
+10,-1.946,103.252,20,"Island",0,"Z",0,"Oil palm yield",0.444
+11,-1.946,103.253,10,"Island",1,"D",25,"Oil palm yield",0.388
+12,-1.946,103.254,20,"Island",1,"C",100,"Oil palm yield",0.57
+13,-1.946,103.256,10,"Island",1,"E",25,"Oil palm yield",0.428
+14,-1.947,103.249,10,"Island",1,"C",25,"Oil palm yield",0.561
+15,-1.947,103.25,20,"Island",1,"B",100,"Oil palm yield",0.545
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Oil palm yield",0.548
+17,-1.947,103.253,20,"Island",1,"F",100,"Oil palm yield",0.834
+18,-1.947,103.254,5,"Island",2,"DE",6,"Oil palm yield",0.532
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Oil palm yield",0.609
+20,-1.947,103.257,10,"Island",1,"B",25,"Oil palm yield",0.468
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Oil palm yield",0.637
+22,-1.949,103.249,5,"Island",2,"BF",6,"Oil palm yield",0.628
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Oil palm yield",0.536
+24,-1.948,103.254,40,"Island",2,"CE",400,"Oil palm yield",0.658
+25,-1.949,103.256,5,"Island",1,"A",6,"Oil palm yield",0.468
+26,-1.948,103.257,40,"Island",2,"DF",400,"Oil palm yield",1
+27,-1.95,103.246,10,"Island",2,"AE",24,"Oil palm yield",0.407
+28,-1.95,103.248,5,"Island",1,"B",6,"Oil palm yield",0.396
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Oil palm yield",0.53
+30,-1.95,103.253,20,"Island",1,"E",100,"Oil palm yield",0.366
+31,-1.95,103.254,5,"Island",1,"C",6,"Oil palm yield",0.529
+32,-1.95,103.256,10,"Island",2,"CF",24,"Oil palm yield",0.583
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Oil palm yield",0.437
+34,-1.951,103.245,10,"Island",2,"BD",24,"Oil palm yield",0.546
+35,-1.952,103.247,40,"Island",0,"Z",0,"Oil palm yield",0.697
+36,-1.951,103.248,20,"Island",2,"AF",100,"Oil palm yield",0.445
+37,-1.951,103.249,10,"Island",0,"Z",0,"Oil palm yield",0.556
+38,-1.952,103.25,20,"Island",1,"D",100,"Oil palm yield",0.417
+39,-1.951,103.252,5,"Island",2,"AC",6,"Oil palm yield",0.391
+40,-1.951,103.257,5,"Island",0,"Z",0,"Oil palm yield",0.477
+41,-1.953,103.244,10,"Island",1,"A",25,"Oil palm yield",0.512
+42,-1.953,103.245,5,"Island",1,"D",6,"Oil palm yield",0.599
+43,-1.95,103.259,40,"Island",1,"C",400,"Oil palm yield",0.697
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Oil palm yield",0.439
+45,-1.953,103.249,40,"Island",1,"E",400,"Oil palm yield",0
+46,-1.954,103.242,40,"Island",2,"AB",400,"Oil palm yield",0.633
+47,-1.954,103.244,20,"Island",2,"BE",100,"Oil palm yield",0.571
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Oil palm yield",0.626
+49,-1.954,103.247,40,"Island",1,"F",400,"Oil palm yield",0.466
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Oil palm yield",0.511
+51,-1.954,103.249,20,"Island",1,"A",100,"Oil palm yield",0.333
+52,-1.955,103.243,40,"Island",1,"D",400,"Oil palm yield",0.457
+53,-1.943,103.255,10,"Control",,,0,"Oil palm yield",0.495
+54,-1.951,103.256,10,"Control",,,0,"Oil palm yield",0.488
+55,-1.951,103.253,10,"Control",,,0,"Oil palm yield",0.487
+56,-1.955,103.246,10,"Control",,,0,"Oil palm yield",0.498
+1,-1.942,103.252,40,"Island",1,"A",400,"Microclimate buffer",0.722
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Microclimate buffer",0.778
+3,-1.943,103.252,20,"Island",2,"CD",100,"Microclimate buffer",0.789
+4,-1.943,103.253,10,"Island",1,"F",25,"Microclimate buffer",0.811
+5,-1.945,103.252,40,"Island",1,"B",400,"Microclimate buffer",0.834
+6,-1.945,103.253,5,"Island",1,"E",6,"Microclimate buffer",0.843
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Microclimate buffer",0.741
+8,-1.946,103.249,5,"Island",1,"F",6,"Microclimate buffer",0.939
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Microclimate buffer",0.834
+10,-1.946,103.252,20,"Island",0,"Z",0,"Microclimate buffer",0.705
+11,-1.946,103.253,10,"Island",1,"D",25,"Microclimate buffer",0.796
+12,-1.946,103.254,20,"Island",1,"C",100,"Microclimate buffer",0.723
+13,-1.946,103.256,10,"Island",1,"E",25,"Microclimate buffer",0.811
+14,-1.947,103.249,10,"Island",1,"C",25,"Microclimate buffer",0.803
+15,-1.947,103.25,20,"Island",1,"B",100,"Microclimate buffer",0.842
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Microclimate buffer",0.796
+17,-1.947,103.253,20,"Island",1,"F",100,"Microclimate buffer",0.722
+18,-1.947,103.254,5,"Island",2,"DE",6,"Microclimate buffer",0.859
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Microclimate buffer",0.774
+20,-1.947,103.257,10,"Island",1,"B",25,"Microclimate buffer",0.761
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Microclimate buffer",0.671
+22,-1.949,103.249,5,"Island",2,"BF",6,"Microclimate buffer",0.811
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Microclimate buffer",0.693
+24,-1.948,103.254,40,"Island",2,"CE",400,"Microclimate buffer",0.859
+25,-1.949,103.256,5,"Island",1,"A",6,"Microclimate buffer",0.796
+26,-1.948,103.257,40,"Island",2,"DF",400,"Microclimate buffer",0.747
+27,-1.95,103.246,10,"Island",2,"AE",24,"Microclimate buffer",1
+28,-1.95,103.248,5,"Island",1,"B",6,"Microclimate buffer",0.913
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Microclimate buffer",0.834
+30,-1.95,103.253,20,"Island",1,"E",100,"Microclimate buffer",0.843
+31,-1.95,103.254,5,"Island",1,"C",6,"Microclimate buffer",0.767
+32,-1.95,103.256,10,"Island",2,"CF",24,"Microclimate buffer",0.803
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Microclimate buffer",0.915
+34,-1.951,103.245,10,"Island",2,"BD",24,"Microclimate buffer",0.693
+35,-1.952,103.247,40,"Island",0,"Z",0,"Microclimate buffer",0.764
+36,-1.951,103.248,20,"Island",2,"AF",100,"Microclimate buffer",0.722
+37,-1.951,103.249,10,"Island",0,"Z",0,"Microclimate buffer",0.789
+38,-1.952,103.25,20,"Island",1,"D",100,"Microclimate buffer",0.688
+39,-1.951,103.252,5,"Island",2,"AC",6,"Microclimate buffer",0.819
+40,-1.951,103.257,5,"Island",0,"Z",0,"Microclimate buffer",0.754
+41,-1.953,103.244,10,"Island",1,"A",25,"Microclimate buffer",0.754
+42,-1.953,103.245,5,"Island",1,"D",6,"Microclimate buffer",0.789
+43,-1.95,103.259,40,"Island",1,"C",400,"Microclimate buffer",0.774
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Microclimate buffer",0.782
+45,-1.953,103.249,40,"Island",1,"E",400,"Microclimate buffer",0.761
+46,-1.954,103.242,40,"Island",2,"AB",400,"Microclimate buffer",0.95
+47,-1.954,103.244,20,"Island",2,"BE",100,"Microclimate buffer",0.882
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Microclimate buffer",0.785
+49,-1.954,103.247,40,"Island",1,"F",400,"Microclimate buffer",0.666
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Microclimate buffer",0.656
+51,-1.954,103.249,20,"Island",1,"A",100,"Microclimate buffer",0.741
+52,-1.955,103.243,40,"Island",1,"D",400,"Microclimate buffer",0.826
+53,-1.943,103.255,10,"Control",,,0,"Microclimate buffer",0.803
+54,-1.951,103.256,10,"Control",,,0,"Microclimate buffer",0.789
+55,-1.951,103.253,10,"Control",,,0,"Microclimate buffer",0.789
+56,-1.955,103.246,10,"Control",,,0,"Microclimate buffer",0.761
+1,-1.942,103.252,40,"Island",1,"A",400,"Water infiltration",0.027
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Water infiltration",0.581
+3,-1.943,103.252,20,"Island",2,"CD",100,"Water infiltration",0.216
+4,-1.943,103.253,10,"Island",1,"F",25,"Water infiltration",0.062
+5,-1.945,103.252,40,"Island",1,"B",400,"Water infiltration",0.307
+6,-1.945,103.253,5,"Island",1,"E",6,"Water infiltration",0.304
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Water infiltration",0.65
+8,-1.946,103.249,5,"Island",1,"F",6,"Water infiltration",0.163
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Water infiltration",0.282
+10,-1.946,103.252,20,"Island",0,"Z",0,"Water infiltration",0.806
+11,-1.946,103.253,10,"Island",1,"D",25,"Water infiltration",0.056
+12,-1.946,103.254,20,"Island",1,"C",100,"Water infiltration",0.836
+13,-1.946,103.256,10,"Island",1,"E",25,"Water infiltration",0.283
+14,-1.947,103.249,10,"Island",1,"C",25,"Water infiltration",0.656
+15,-1.947,103.25,20,"Island",1,"B",100,"Water infiltration",0.711
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Water infiltration",0.193
+17,-1.947,103.253,20,"Island",1,"F",100,"Water infiltration",0.36
+18,-1.947,103.254,5,"Island",2,"DE",6,"Water infiltration",0.041
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Water infiltration",0.198
+20,-1.947,103.257,10,"Island",1,"B",25,"Water infiltration",0.094
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Water infiltration",0.166
+22,-1.949,103.249,5,"Island",2,"BF",6,"Water infiltration",0.344
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Water infiltration",0.245
+24,-1.948,103.254,40,"Island",2,"CE",400,"Water infiltration",0.402
+25,-1.949,103.256,5,"Island",1,"A",6,"Water infiltration",0.141
+26,-1.948,103.257,40,"Island",2,"DF",400,"Water infiltration",0.325
+27,-1.95,103.246,10,"Island",2,"AE",24,"Water infiltration",0.118
+28,-1.95,103.248,5,"Island",1,"B",6,"Water infiltration",0.093
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Water infiltration",0.355
+30,-1.95,103.253,20,"Island",1,"E",100,"Water infiltration",0.055
+31,-1.95,103.254,5,"Island",1,"C",6,"Water infiltration",0.721
+32,-1.95,103.256,10,"Island",2,"CF",24,"Water infiltration",0.262
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Water infiltration",0.083
+34,-1.951,103.245,10,"Island",2,"BD",24,"Water infiltration",0.123
+35,-1.952,103.247,40,"Island",0,"Z",0,"Water infiltration",0.355
+36,-1.951,103.248,20,"Island",2,"AF",100,"Water infiltration",0.343
+37,-1.951,103.249,10,"Island",0,"Z",0,"Water infiltration",0.289
+38,-1.952,103.25,20,"Island",1,"D",100,"Water infiltration",0.592
+39,-1.951,103.252,5,"Island",2,"AC",6,"Water infiltration",0.412
+40,-1.951,103.257,5,"Island",0,"Z",0,"Water infiltration",0.049
+41,-1.953,103.244,10,"Island",1,"A",25,"Water infiltration",0.543
+42,-1.953,103.245,5,"Island",1,"D",6,"Water infiltration",0.083
+43,-1.95,103.259,40,"Island",1,"C",400,"Water infiltration",0.091
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Water infiltration",1
+45,-1.953,103.249,40,"Island",1,"E",400,"Water infiltration",0.675
+46,-1.954,103.242,40,"Island",2,"AB",400,"Water infiltration",0.31
+47,-1.954,103.244,20,"Island",2,"BE",100,"Water infiltration",0.396
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Water infiltration",0.22
+49,-1.954,103.247,40,"Island",1,"F",400,"Water infiltration",0.537
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Water infiltration",0.216
+51,-1.954,103.249,20,"Island",1,"A",100,"Water infiltration",0.138
+52,-1.955,103.243,40,"Island",1,"D",400,"Water infiltration",0.087
+53,-1.943,103.255,10,"Control",,,0,"Water infiltration",0.059
+54,-1.951,103.256,10,"Control",,,0,"Water infiltration",0.147
+55,-1.951,103.253,10,"Control",,,0,"Water infiltration",0.054
+56,-1.955,103.246,10,"Control",,,0,"Water infiltration",0.147
+1,-1.942,103.252,40,"Island",1,"A",400,"Evapotranspiration",0.3
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Evapotranspiration",0.252
+3,-1.943,103.252,20,"Island",2,"CD",100,"Evapotranspiration",0.272
+4,-1.943,103.253,10,"Island",1,"F",25,"Evapotranspiration",0.196
+5,-1.945,103.252,40,"Island",1,"B",400,"Evapotranspiration",0.279
+6,-1.945,103.253,5,"Island",1,"E",6,"Evapotranspiration",0.24
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Evapotranspiration",0.233
+8,-1.946,103.249,5,"Island",1,"F",6,"Evapotranspiration",0.226
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Evapotranspiration",0.422
+10,-1.946,103.252,20,"Island",0,"Z",0,"Evapotranspiration",0.455
+11,-1.946,103.253,10,"Island",1,"D",25,"Evapotranspiration",0.308
+12,-1.946,103.254,20,"Island",1,"C",100,"Evapotranspiration",0.555
+13,-1.946,103.256,10,"Island",1,"E",25,"Evapotranspiration",0.357
+14,-1.947,103.249,10,"Island",1,"C",25,"Evapotranspiration",0.255
+15,-1.947,103.25,20,"Island",1,"B",100,"Evapotranspiration",0.055
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Evapotranspiration",0.047
+17,-1.947,103.253,20,"Island",1,"F",100,"Evapotranspiration",0.547
+18,-1.947,103.254,5,"Island",2,"DE",6,"Evapotranspiration",0.383
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Evapotranspiration",0.384
+20,-1.947,103.257,10,"Island",1,"B",25,"Evapotranspiration",0.351
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Evapotranspiration",0.231
+22,-1.949,103.249,5,"Island",2,"BF",6,"Evapotranspiration",0.365
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Evapotranspiration",0.055
+24,-1.948,103.254,40,"Island",2,"CE",400,"Evapotranspiration",0.327
+25,-1.949,103.256,5,"Island",1,"A",6,"Evapotranspiration",0.439
+26,-1.948,103.257,40,"Island",2,"DF",400,"Evapotranspiration",0.607
+27,-1.95,103.246,10,"Island",2,"AE",24,"Evapotranspiration",0.169
+28,-1.95,103.248,5,"Island",1,"B",6,"Evapotranspiration",0.335
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Evapotranspiration",0.436
+30,-1.95,103.253,20,"Island",1,"E",100,"Evapotranspiration",0.028
+31,-1.95,103.254,5,"Island",1,"C",6,"Evapotranspiration",0.388
+32,-1.95,103.256,10,"Island",2,"CF",24,"Evapotranspiration",0.534
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Evapotranspiration",0.565
+34,-1.951,103.245,10,"Island",2,"BD",24,"Evapotranspiration",0.277
+35,-1.952,103.247,40,"Island",0,"Z",0,"Evapotranspiration",0.426
+36,-1.951,103.248,20,"Island",2,"AF",100,"Evapotranspiration",0.447
+37,-1.951,103.249,10,"Island",0,"Z",0,"Evapotranspiration",0.368
+38,-1.952,103.25,20,"Island",1,"D",100,"Evapotranspiration",0.917
+39,-1.951,103.252,5,"Island",2,"AC",6,"Evapotranspiration",0.857
+40,-1.951,103.257,5,"Island",0,"Z",0,"Evapotranspiration",0.498
+41,-1.953,103.244,10,"Island",1,"A",25,"Evapotranspiration",0.496
+42,-1.953,103.245,5,"Island",1,"D",6,"Evapotranspiration",0.377
+43,-1.95,103.259,40,"Island",1,"C",400,"Evapotranspiration",0.599
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Evapotranspiration",0.809
+45,-1.953,103.249,40,"Island",1,"E",400,"Evapotranspiration",1
+46,-1.954,103.242,40,"Island",2,"AB",400,"Evapotranspiration",0.397
+47,-1.954,103.244,20,"Island",2,"BE",100,"Evapotranspiration",0.428
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Evapotranspiration",0.397
+49,-1.954,103.247,40,"Island",1,"F",400,"Evapotranspiration",0.944
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Evapotranspiration",0.738
+51,-1.954,103.249,20,"Island",1,"A",100,"Evapotranspiration",0.708
+52,-1.955,103.243,40,"Island",1,"D",400,"Evapotranspiration",0.486
+53,-1.943,103.255,10,"Control",,,0,"Evapotranspiration",0.252
+54,-1.951,103.256,10,"Control",,,0,"Evapotranspiration",0.394
+55,-1.951,103.253,10,"Control",,,0,"Evapotranspiration",0.06
+56,-1.955,103.246,10,"Control",,,0,"Evapotranspiration",0.37
+1,-1.942,103.252,40,"Island",1,"A",400,"Litter input",0.322
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Litter input",0.62
+3,-1.943,103.252,20,"Island",2,"CD",100,"Litter input",0.041
+4,-1.943,103.253,10,"Island",1,"F",25,"Litter input",0.391
+5,-1.945,103.252,40,"Island",1,"B",400,"Litter input",0.94
+6,-1.945,103.253,5,"Island",1,"E",6,"Litter input",0.381
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Litter input",0.175
+8,-1.946,103.249,5,"Island",1,"F",6,"Litter input",0.087
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Litter input",0.445
+10,-1.946,103.252,20,"Island",0,"Z",0,"Litter input",0.498
+11,-1.946,103.253,10,"Island",1,"D",25,"Litter input",0.256
+12,-1.946,103.254,20,"Island",1,"C",100,"Litter input",0.264
+13,-1.946,103.256,10,"Island",1,"E",25,"Litter input",0.891
+14,-1.947,103.249,10,"Island",1,"C",25,"Litter input",0.14
+15,-1.947,103.25,20,"Island",1,"B",100,"Litter input",0.764
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Litter input",0.11
+17,-1.947,103.253,20,"Island",1,"F",100,"Litter input",0.496
+18,-1.947,103.254,5,"Island",2,"DE",6,"Litter input",0.303
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Litter input",1
+20,-1.947,103.257,10,"Island",1,"B",25,"Litter input",0.715
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Litter input",0.171
+22,-1.949,103.249,5,"Island",2,"BF",6,"Litter input",0.086
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Litter input",0.771
+24,-1.948,103.254,40,"Island",2,"CE",400,"Litter input",0.394
+25,-1.949,103.256,5,"Island",1,"A",6,"Litter input",0.473
+26,-1.948,103.257,40,"Island",2,"DF",400,"Litter input",0.145
+27,-1.95,103.246,10,"Island",2,"AE",24,"Litter input",0.487
+28,-1.95,103.248,5,"Island",1,"B",6,"Litter input",0.106
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Litter input",0.204
+30,-1.95,103.253,20,"Island",1,"E",100,"Litter input",0.614
+31,-1.95,103.254,5,"Island",1,"C",6,"Litter input",0.195
+32,-1.95,103.256,10,"Island",2,"CF",24,"Litter input",0.428
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Litter input",0.421
+34,-1.951,103.245,10,"Island",2,"BD",24,"Litter input",0.525
+35,-1.952,103.247,40,"Island",0,"Z",0,"Litter input",0.099
+36,-1.951,103.248,20,"Island",2,"AF",100,"Litter input",0.472
+37,-1.951,103.249,10,"Island",0,"Z",0,"Litter input",0.294
+38,-1.952,103.25,20,"Island",1,"D",100,"Litter input",0.363
+39,-1.951,103.252,5,"Island",2,"AC",6,"Litter input",0.457
+40,-1.951,103.257,5,"Island",0,"Z",0,"Litter input",0.139
+41,-1.953,103.244,10,"Island",1,"A",25,"Litter input",0.059
+42,-1.953,103.245,5,"Island",1,"D",6,"Litter input",0.232
+43,-1.95,103.259,40,"Island",1,"C",400,"Litter input",0.137
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Litter input",0.388
+45,-1.953,103.249,40,"Island",1,"E",400,"Litter input",0.536
+46,-1.954,103.242,40,"Island",2,"AB",400,"Litter input",0.183
+47,-1.954,103.244,20,"Island",2,"BE",100,"Litter input",0.586
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Litter input",0.542
+49,-1.954,103.247,40,"Island",1,"F",400,"Litter input",0.08
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Litter input",0.3
+51,-1.954,103.249,20,"Island",1,"A",100,"Litter input",0.297
+52,-1.955,103.243,40,"Island",1,"D",400,"Litter input",0.174
+53,-1.943,103.255,10,"Control",,,0,"Litter input",0.083
+54,-1.951,103.256,10,"Control",,,0,"Litter input",0.197
+55,-1.951,103.253,10,"Control",,,0,"Litter input",0.19
+56,-1.955,103.246,10,"Control",,,0,"Litter input",0.044
+1,-1.942,103.252,40,"Island",1,"A",400,"Litter decomposition",0.614
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Litter decomposition",0.924
+3,-1.943,103.252,20,"Island",2,"CD",100,"Litter decomposition",0.952
+4,-1.943,103.253,10,"Island",1,"F",25,"Litter decomposition",0.935
+5,-1.945,103.252,40,"Island",1,"B",400,"Litter decomposition",0.527
+6,-1.945,103.253,5,"Island",1,"E",6,"Litter decomposition",0.68
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Litter decomposition",0.208
+8,-1.946,103.249,5,"Island",1,"F",6,"Litter decomposition",0.554
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Litter decomposition",0.603
+10,-1.946,103.252,20,"Island",0,"Z",0,"Litter decomposition",0.641
+11,-1.946,103.253,10,"Island",1,"D",25,"Litter decomposition",0.689
+12,-1.946,103.254,20,"Island",1,"C",100,"Litter decomposition",0.69
+13,-1.946,103.256,10,"Island",1,"E",25,"Litter decomposition",0.642
+14,-1.947,103.249,10,"Island",1,"C",25,"Litter decomposition",0.796
+15,-1.947,103.25,20,"Island",1,"B",100,"Litter decomposition",0.946
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Litter decomposition",0.792
+17,-1.947,103.253,20,"Island",1,"F",100,"Litter decomposition",0.794
+18,-1.947,103.254,5,"Island",2,"DE",6,"Litter decomposition",0.589
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Litter decomposition",0.707
+20,-1.947,103.257,10,"Island",1,"B",25,"Litter decomposition",0.791
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Litter decomposition",0.597
+22,-1.949,103.249,5,"Island",2,"BF",6,"Litter decomposition",0.474
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Litter decomposition",0.828
+24,-1.948,103.254,40,"Island",2,"CE",400,"Litter decomposition",0.996
+25,-1.949,103.256,5,"Island",1,"A",6,"Litter decomposition",0.874
+26,-1.948,103.257,40,"Island",2,"DF",400,"Litter decomposition",0.457
+27,-1.95,103.246,10,"Island",2,"AE",24,"Litter decomposition",0.994
+28,-1.95,103.248,5,"Island",1,"B",6,"Litter decomposition",0.692
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Litter decomposition",0.676
+30,-1.95,103.253,20,"Island",1,"E",100,"Litter decomposition",0.902
+31,-1.95,103.254,5,"Island",1,"C",6,"Litter decomposition",0.889
+32,-1.95,103.256,10,"Island",2,"CF",24,"Litter decomposition",0.594
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Litter decomposition",1
+34,-1.951,103.245,10,"Island",2,"BD",24,"Litter decomposition",0.816
+35,-1.952,103.247,40,"Island",0,"Z",0,"Litter decomposition",0.788
+36,-1.951,103.248,20,"Island",2,"AF",100,"Litter decomposition",0.856
+37,-1.951,103.249,10,"Island",0,"Z",0,"Litter decomposition",0.215
+38,-1.952,103.25,20,"Island",1,"D",100,"Litter decomposition",0.961
+39,-1.951,103.252,5,"Island",2,"AC",6,"Litter decomposition",0.96
+40,-1.951,103.257,5,"Island",0,"Z",0,"Litter decomposition",0.975
+41,-1.953,103.244,10,"Island",1,"A",25,"Litter decomposition",0.854
+42,-1.953,103.245,5,"Island",1,"D",6,"Litter decomposition",0.66
+43,-1.95,103.259,40,"Island",1,"C",400,"Litter decomposition",0.928
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Litter decomposition",0.699
+45,-1.953,103.249,40,"Island",1,"E",400,"Litter decomposition",0.472
+46,-1.954,103.242,40,"Island",2,"AB",400,"Litter decomposition",0.876
+47,-1.954,103.244,20,"Island",2,"BE",100,"Litter decomposition",0.838
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Litter decomposition",0.91
+49,-1.954,103.247,40,"Island",1,"F",400,"Litter decomposition",0.915
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Litter decomposition",0.332
+51,-1.954,103.249,20,"Island",1,"A",100,"Litter decomposition",0.771
+52,-1.955,103.243,40,"Island",1,"D",400,"Litter decomposition",0.908
+53,-1.943,103.255,10,"Control",,,0,"Litter decomposition",0.618
+54,-1.951,103.256,10,"Control",,,0,"Litter decomposition",0.899
+55,-1.951,103.253,10,"Control",,,0,"Litter decomposition",0.959
+56,-1.955,103.246,10,"Control",,,0,"Litter decomposition",0.899
+1,-1.942,103.252,40,"Island",1,"A",400,"Decomposers",0.536
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Decomposers",0.159
+3,-1.943,103.252,20,"Island",2,"CD",100,"Decomposers",0.884
+4,-1.943,103.253,10,"Island",1,"F",25,"Decomposers",0.488
+5,-1.945,103.252,40,"Island",1,"B",400,"Decomposers",0.194
+6,-1.945,103.253,5,"Island",1,"E",6,"Decomposers",0.727
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Decomposers",0.562
+8,-1.946,103.249,5,"Island",1,"F",6,"Decomposers",0.049
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Decomposers",0.332
+10,-1.946,103.252,20,"Island",0,"Z",0,"Decomposers",0.471
+11,-1.946,103.253,10,"Island",1,"D",25,"Decomposers",0.339
+12,-1.946,103.254,20,"Island",1,"C",100,"Decomposers",0.866
+13,-1.946,103.256,10,"Island",1,"E",25,"Decomposers",0.195
+14,-1.947,103.249,10,"Island",1,"C",25,"Decomposers",0.224
+15,-1.947,103.25,20,"Island",1,"B",100,"Decomposers",0.369
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Decomposers",0.236
+17,-1.947,103.253,20,"Island",1,"F",100,"Decomposers",0.586
+18,-1.947,103.254,5,"Island",2,"DE",6,"Decomposers",0.301
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Decomposers",0.469
+20,-1.947,103.257,10,"Island",1,"B",25,"Decomposers",0.317
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Decomposers",0.18
+22,-1.949,103.249,5,"Island",2,"BF",6,"Decomposers",0.314
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Decomposers",0.522
+24,-1.948,103.254,40,"Island",2,"CE",400,"Decomposers",0.703
+25,-1.949,103.256,5,"Island",1,"A",6,"Decomposers",0.136
+26,-1.948,103.257,40,"Island",2,"DF",400,"Decomposers",1
+27,-1.95,103.246,10,"Island",2,"AE",24,"Decomposers",0.457
+28,-1.95,103.248,5,"Island",1,"B",6,"Decomposers",0.066
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Decomposers",0.329
+30,-1.95,103.253,20,"Island",1,"E",100,"Decomposers",0.214
+31,-1.95,103.254,5,"Island",1,"C",6,"Decomposers",0.451
+32,-1.95,103.256,10,"Island",2,"CF",24,"Decomposers",0.482
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Decomposers",0.471
+34,-1.951,103.245,10,"Island",2,"BD",24,"Decomposers",0.539
+35,-1.952,103.247,40,"Island",0,"Z",0,"Decomposers",0.354
+36,-1.951,103.248,20,"Island",2,"AF",100,"Decomposers",0.782
+37,-1.951,103.249,10,"Island",0,"Z",0,"Decomposers",0.171
+38,-1.952,103.25,20,"Island",1,"D",100,"Decomposers",0.348
+39,-1.951,103.252,5,"Island",2,"AC",6,"Decomposers",0.497
+40,-1.951,103.257,5,"Island",0,"Z",0,"Decomposers",0.31
+41,-1.953,103.244,10,"Island",1,"A",25,"Decomposers",0.871
+42,-1.953,103.245,5,"Island",1,"D",6,"Decomposers",0.097
+43,-1.95,103.259,40,"Island",1,"C",400,"Decomposers",0.097
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Decomposers",0.45
+45,-1.953,103.249,40,"Island",1,"E",400,"Decomposers",0.576
+46,-1.954,103.242,40,"Island",2,"AB",400,"Decomposers",0.567
+47,-1.954,103.244,20,"Island",2,"BE",100,"Decomposers",0.317
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Decomposers",0.309
+49,-1.954,103.247,40,"Island",1,"F",400,"Decomposers",0.605
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Decomposers",0.003
+51,-1.954,103.249,20,"Island",1,"A",100,"Decomposers",0.164
+52,-1.955,103.243,40,"Island",1,"D",400,"Decomposers",0.625
+53,-1.943,103.255,10,"Control",,,0,"Decomposers",0.095
+54,-1.951,103.256,10,"Control",,,0,"Decomposers",0.303
+55,-1.951,103.253,10,"Control",,,0,"Decomposers",0.325
+56,-1.955,103.246,10,"Control",,,0,"Decomposers",0.637
+1,-1.942,103.252,40,"Island",1,"A",400,"Herbivores (soil fauna)",0.216
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Herbivores (soil fauna)",1
+3,-1.943,103.252,20,"Island",2,"CD",100,"Herbivores (soil fauna)",0.531
+4,-1.943,103.253,10,"Island",1,"F",25,"Herbivores (soil fauna)",0.074
+5,-1.945,103.252,40,"Island",1,"B",400,"Herbivores (soil fauna)",0.135
+6,-1.945,103.253,5,"Island",1,"E",6,"Herbivores (soil fauna)",0.247
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Herbivores (soil fauna)",0.174
+8,-1.946,103.249,5,"Island",1,"F",6,"Herbivores (soil fauna)",0.086
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Herbivores (soil fauna)",0.107
+10,-1.946,103.252,20,"Island",0,"Z",0,"Herbivores (soil fauna)",0.35
+11,-1.946,103.253,10,"Island",1,"D",25,"Herbivores (soil fauna)",0.071
+12,-1.946,103.254,20,"Island",1,"C",100,"Herbivores (soil fauna)",0.124
+13,-1.946,103.256,10,"Island",1,"E",25,"Herbivores (soil fauna)",0.041
+14,-1.947,103.249,10,"Island",1,"C",25,"Herbivores (soil fauna)",0.186
+15,-1.947,103.25,20,"Island",1,"B",100,"Herbivores (soil fauna)",0.053
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Herbivores (soil fauna)",0.056
+17,-1.947,103.253,20,"Island",1,"F",100,"Herbivores (soil fauna)",0.373
+18,-1.947,103.254,5,"Island",2,"DE",6,"Herbivores (soil fauna)",0.032
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Herbivores (soil fauna)",0.089
+20,-1.947,103.257,10,"Island",1,"B",25,"Herbivores (soil fauna)",0.073
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Herbivores (soil fauna)",0.477
+22,-1.949,103.249,5,"Island",2,"BF",6,"Herbivores (soil fauna)",0
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Herbivores (soil fauna)",0.028
+24,-1.948,103.254,40,"Island",2,"CE",400,"Herbivores (soil fauna)",0.062
+25,-1.949,103.256,5,"Island",1,"A",6,"Herbivores (soil fauna)",0.005
+26,-1.948,103.257,40,"Island",2,"DF",400,"Herbivores (soil fauna)",0.371
+27,-1.95,103.246,10,"Island",2,"AE",24,"Herbivores (soil fauna)",0.09
+28,-1.95,103.248,5,"Island",1,"B",6,"Herbivores (soil fauna)",0.087
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Herbivores (soil fauna)",0.252
+30,-1.95,103.253,20,"Island",1,"E",100,"Herbivores (soil fauna)",0.172
+31,-1.95,103.254,5,"Island",1,"C",6,"Herbivores (soil fauna)",0.091
+32,-1.95,103.256,10,"Island",2,"CF",24,"Herbivores (soil fauna)",0.064
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Herbivores (soil fauna)",0.023
+34,-1.951,103.245,10,"Island",2,"BD",24,"Herbivores (soil fauna)",0.037
+35,-1.952,103.247,40,"Island",0,"Z",0,"Herbivores (soil fauna)",0.073
+36,-1.951,103.248,20,"Island",2,"AF",100,"Herbivores (soil fauna)",0.039
+37,-1.951,103.249,10,"Island",0,"Z",0,"Herbivores (soil fauna)",0.039
+38,-1.952,103.25,20,"Island",1,"D",100,"Herbivores (soil fauna)",0.413
+39,-1.951,103.252,5,"Island",2,"AC",6,"Herbivores (soil fauna)",0.005
+40,-1.951,103.257,5,"Island",0,"Z",0,"Herbivores (soil fauna)",0.01
+41,-1.953,103.244,10,"Island",1,"A",25,"Herbivores (soil fauna)",0.831
+42,-1.953,103.245,5,"Island",1,"D",6,"Herbivores (soil fauna)",0.018
+43,-1.95,103.259,40,"Island",1,"C",400,"Herbivores (soil fauna)",0.405
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Herbivores (soil fauna)",0.559
+45,-1.953,103.249,40,"Island",1,"E",400,"Herbivores (soil fauna)",0.055
+46,-1.954,103.242,40,"Island",2,"AB",400,"Herbivores (soil fauna)",0.128
+47,-1.954,103.244,20,"Island",2,"BE",100,"Herbivores (soil fauna)",0.096
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Herbivores (soil fauna)",0.021
+49,-1.954,103.247,40,"Island",1,"F",400,"Herbivores (soil fauna)",0.049
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Herbivores (soil fauna)",0.086
+51,-1.954,103.249,20,"Island",1,"A",100,"Herbivores (soil fauna)",0.127
+52,-1.955,103.243,40,"Island",1,"D",400,"Herbivores (soil fauna)",0.082
+53,-1.943,103.255,10,"Control",,,0,"Herbivores (soil fauna)",0.294
+54,-1.951,103.256,10,"Control",,,0,"Herbivores (soil fauna)",0.091
+55,-1.951,103.253,10,"Control",,,0,"Herbivores (soil fauna)",0.026
+56,-1.955,103.246,10,"Control",,,0,"Herbivores (soil fauna)",0.011
+1,-1.942,103.252,40,"Island",1,"A",400,"Predators (soil fauna)",0.274
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Predators (soil fauna)",0.064
+3,-1.943,103.252,20,"Island",2,"CD",100,"Predators (soil fauna)",0.698
+4,-1.943,103.253,10,"Island",1,"F",25,"Predators (soil fauna)",0.059
+5,-1.945,103.252,40,"Island",1,"B",400,"Predators (soil fauna)",0.542
+6,-1.945,103.253,5,"Island",1,"E",6,"Predators (soil fauna)",0.118
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Predators (soil fauna)",0.182
+8,-1.946,103.249,5,"Island",1,"F",6,"Predators (soil fauna)",0.132
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Predators (soil fauna)",0.056
+10,-1.946,103.252,20,"Island",0,"Z",0,"Predators (soil fauna)",0.301
+11,-1.946,103.253,10,"Island",1,"D",25,"Predators (soil fauna)",0.085
+12,-1.946,103.254,20,"Island",1,"C",100,"Predators (soil fauna)",0.191
+13,-1.946,103.256,10,"Island",1,"E",25,"Predators (soil fauna)",0.152
+14,-1.947,103.249,10,"Island",1,"C",25,"Predators (soil fauna)",0.131
+15,-1.947,103.25,20,"Island",1,"B",100,"Predators (soil fauna)",0.115
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Predators (soil fauna)",0.069
+17,-1.947,103.253,20,"Island",1,"F",100,"Predators (soil fauna)",1
+18,-1.947,103.254,5,"Island",2,"DE",6,"Predators (soil fauna)",0.048
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Predators (soil fauna)",0.229
+20,-1.947,103.257,10,"Island",1,"B",25,"Predators (soil fauna)",0.03
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Predators (soil fauna)",0.024
+22,-1.949,103.249,5,"Island",2,"BF",6,"Predators (soil fauna)",0.153
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Predators (soil fauna)",0.02
+24,-1.948,103.254,40,"Island",2,"CE",400,"Predators (soil fauna)",0.028
+25,-1.949,103.256,5,"Island",1,"A",6,"Predators (soil fauna)",0.033
+26,-1.948,103.257,40,"Island",2,"DF",400,"Predators (soil fauna)",0.111
+27,-1.95,103.246,10,"Island",2,"AE",24,"Predators (soil fauna)",0.12
+28,-1.95,103.248,5,"Island",1,"B",6,"Predators (soil fauna)",0.04
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Predators (soil fauna)",0.038
+30,-1.95,103.253,20,"Island",1,"E",100,"Predators (soil fauna)",0.051
+31,-1.95,103.254,5,"Island",1,"C",6,"Predators (soil fauna)",0.093
+32,-1.95,103.256,10,"Island",2,"CF",24,"Predators (soil fauna)",0.08
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Predators (soil fauna)",0.018
+34,-1.951,103.245,10,"Island",2,"BD",24,"Predators (soil fauna)",0.066
+35,-1.952,103.247,40,"Island",0,"Z",0,"Predators (soil fauna)",0.026
+36,-1.951,103.248,20,"Island",2,"AF",100,"Predators (soil fauna)",0.154
+37,-1.951,103.249,10,"Island",0,"Z",0,"Predators (soil fauna)",0.008
+38,-1.952,103.25,20,"Island",1,"D",100,"Predators (soil fauna)",0.079
+39,-1.951,103.252,5,"Island",2,"AC",6,"Predators (soil fauna)",0.091
+40,-1.951,103.257,5,"Island",0,"Z",0,"Predators (soil fauna)",0.053
+41,-1.953,103.244,10,"Island",1,"A",25,"Predators (soil fauna)",0.14
+42,-1.953,103.245,5,"Island",1,"D",6,"Predators (soil fauna)",0.039
+43,-1.95,103.259,40,"Island",1,"C",400,"Predators (soil fauna)",0.039
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Predators (soil fauna)",0.074
+45,-1.953,103.249,40,"Island",1,"E",400,"Predators (soil fauna)",0.02
+46,-1.954,103.242,40,"Island",2,"AB",400,"Predators (soil fauna)",0.124
+47,-1.954,103.244,20,"Island",2,"BE",100,"Predators (soil fauna)",0.149
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Predators (soil fauna)",0.031
+49,-1.954,103.247,40,"Island",1,"F",400,"Predators (soil fauna)",0.026
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Predators (soil fauna)",0.016
+51,-1.954,103.249,20,"Island",1,"A",100,"Predators (soil fauna)",0.199
+52,-1.955,103.243,40,"Island",1,"D",400,"Predators (soil fauna)",0.189
+53,-1.943,103.255,10,"Control",,,0,"Predators (soil fauna)",0.048
+54,-1.951,103.256,10,"Control",,,0,"Predators (soil fauna)",0.013
+55,-1.951,103.253,10,"Control",,,0,"Predators (soil fauna)",0.053
+56,-1.955,103.246,10,"Control",,,0,"Predators (soil fauna)",0.034
+1,-1.942,103.252,40,"Island",1,"A",400,"Predators (arthropods)",0.402
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Predators (arthropods)",0.337
+3,-1.943,103.252,20,"Island",2,"CD",100,"Predators (arthropods)",0.293
+4,-1.943,103.253,10,"Island",1,"F",25,"Predators (arthropods)",0.37
+5,-1.945,103.252,40,"Island",1,"B",400,"Predators (arthropods)",0.424
+6,-1.945,103.253,5,"Island",1,"E",6,"Predators (arthropods)",0.304
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Predators (arthropods)",0.337
+8,-1.946,103.249,5,"Island",1,"F",6,"Predators (arthropods)",0.13
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Predators (arthropods)",0.196
+10,-1.946,103.252,20,"Island",0,"Z",0,"Predators (arthropods)",0.402
+11,-1.946,103.253,10,"Island",1,"D",25,"Predators (arthropods)",0.163
+12,-1.946,103.254,20,"Island",1,"C",100,"Predators (arthropods)",0.174
+13,-1.946,103.256,10,"Island",1,"E",25,"Predators (arthropods)",0.239
+14,-1.947,103.249,10,"Island",1,"C",25,"Predators (arthropods)",0.424
+15,-1.947,103.25,20,"Island",1,"B",100,"Predators (arthropods)",0.25
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Predators (arthropods)",0.239
+17,-1.947,103.253,20,"Island",1,"F",100,"Predators (arthropods)",0.533
+18,-1.947,103.254,5,"Island",2,"DE",6,"Predators (arthropods)",0.152
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Predators (arthropods)",0.37
+20,-1.947,103.257,10,"Island",1,"B",25,"Predators (arthropods)",0.239
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Predators (arthropods)",0.315
+22,-1.949,103.249,5,"Island",2,"BF",6,"Predators (arthropods)",0.087
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Predators (arthropods)",0.196
+24,-1.948,103.254,40,"Island",2,"CE",400,"Predators (arthropods)",0.826
+25,-1.949,103.256,5,"Island",1,"A",6,"Predators (arthropods)",0.13
+26,-1.948,103.257,40,"Island",2,"DF",400,"Predators (arthropods)",0.174
+27,-1.95,103.246,10,"Island",2,"AE",24,"Predators (arthropods)",0.283
+28,-1.95,103.248,5,"Island",1,"B",6,"Predators (arthropods)",0.283
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Predators (arthropods)",0.239
+30,-1.95,103.253,20,"Island",1,"E",100,"Predators (arthropods)",0.13
+31,-1.95,103.254,5,"Island",1,"C",6,"Predators (arthropods)",0.207
+32,-1.95,103.256,10,"Island",2,"CF",24,"Predators (arthropods)",0.348
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Predators (arthropods)",0.239
+34,-1.951,103.245,10,"Island",2,"BD",24,"Predators (arthropods)",1
+35,-1.952,103.247,40,"Island",0,"Z",0,"Predators (arthropods)",0.489
+36,-1.951,103.248,20,"Island",2,"AF",100,"Predators (arthropods)",0.652
+37,-1.951,103.249,10,"Island",0,"Z",0,"Predators (arthropods)",0.543
+38,-1.952,103.25,20,"Island",1,"D",100,"Predators (arthropods)",0.185
+39,-1.951,103.252,5,"Island",2,"AC",6,"Predators (arthropods)",0.217
+40,-1.951,103.257,5,"Island",0,"Z",0,"Predators (arthropods)",0.163
+41,-1.953,103.244,10,"Island",1,"A",25,"Predators (arthropods)",0.804
+42,-1.953,103.245,5,"Island",1,"D",6,"Predators (arthropods)",0.457
+43,-1.95,103.259,40,"Island",1,"C",400,"Predators (arthropods)",0.413
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Predators (arthropods)",0.326
+45,-1.953,103.249,40,"Island",1,"E",400,"Predators (arthropods)",0.435
+46,-1.954,103.242,40,"Island",2,"AB",400,"Predators (arthropods)",0.185
+47,-1.954,103.244,20,"Island",2,"BE",100,"Predators (arthropods)",0.239
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Predators (arthropods)",0.38
+49,-1.954,103.247,40,"Island",1,"F",400,"Predators (arthropods)",0.902
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Predators (arthropods)",0.326
+51,-1.954,103.249,20,"Island",1,"A",100,"Predators (arthropods)",0.239
+52,-1.955,103.243,40,"Island",1,"D",400,"Predators (arthropods)",0.587
+53,-1.943,103.255,10,"Control",,,0,"Predators (arthropods)",0.293
+54,-1.951,103.256,10,"Control",,,0,"Predators (arthropods)",0.185
+55,-1.951,103.253,10,"Control",,,0,"Predators (arthropods)",0.207
+56,-1.955,103.246,10,"Control",,,0,"Predators (arthropods)",0.293
+1,-1.942,103.252,40,"Island",1,"A",400,"Predators (vertebrates)",0.091
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Predators (vertebrates)",0.14
+3,-1.943,103.252,20,"Island",2,"CD",100,"Predators (vertebrates)",0.026
+4,-1.943,103.253,10,"Island",1,"F",25,"Predators (vertebrates)",0.192
+5,-1.945,103.252,40,"Island",1,"B",400,"Predators (vertebrates)",0.055
+6,-1.945,103.253,5,"Island",1,"E",6,"Predators (vertebrates)",0.186
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Predators (vertebrates)",0.069
+8,-1.946,103.249,5,"Island",1,"F",6,"Predators (vertebrates)",0.01
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Predators (vertebrates)",0.132
+10,-1.946,103.252,20,"Island",0,"Z",0,"Predators (vertebrates)",0.283
+11,-1.946,103.253,10,"Island",1,"D",25,"Predators (vertebrates)",0.59
+12,-1.946,103.254,20,"Island",1,"C",100,"Predators (vertebrates)",0.083
+13,-1.946,103.256,10,"Island",1,"E",25,"Predators (vertebrates)",0.01
+14,-1.947,103.249,10,"Island",1,"C",25,"Predators (vertebrates)",0.157
+15,-1.947,103.25,20,"Island",1,"B",100,"Predators (vertebrates)",0.09
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Predators (vertebrates)",0.034
+17,-1.947,103.253,20,"Island",1,"F",100,"Predators (vertebrates)",0.036
+18,-1.947,103.254,5,"Island",2,"DE",6,"Predators (vertebrates)",0.069
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Predators (vertebrates)",0.418
+20,-1.947,103.257,10,"Island",1,"B",25,"Predators (vertebrates)",0.117
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Predators (vertebrates)",0.037
+22,-1.949,103.249,5,"Island",2,"BF",6,"Predators (vertebrates)",0.154
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Predators (vertebrates)",0.067
+24,-1.948,103.254,40,"Island",2,"CE",400,"Predators (vertebrates)",0.679
+25,-1.949,103.256,5,"Island",1,"A",6,"Predators (vertebrates)",0.052
+26,-1.948,103.257,40,"Island",2,"DF",400,"Predators (vertebrates)",0.402
+27,-1.95,103.246,10,"Island",2,"AE",24,"Predators (vertebrates)",0.19
+28,-1.95,103.248,5,"Island",1,"B",6,"Predators (vertebrates)",0.067
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Predators (vertebrates)",0.008
+30,-1.95,103.253,20,"Island",1,"E",100,"Predators (vertebrates)",0.918
+31,-1.95,103.254,5,"Island",1,"C",6,"Predators (vertebrates)",0.03
+32,-1.95,103.256,10,"Island",2,"CF",24,"Predators (vertebrates)",0.026
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Predators (vertebrates)",0.041
+34,-1.951,103.245,10,"Island",2,"BD",24,"Predators (vertebrates)",0.424
+35,-1.952,103.247,40,"Island",0,"Z",0,"Predators (vertebrates)",0.908
+36,-1.951,103.248,20,"Island",2,"AF",100,"Predators (vertebrates)",0.007
+37,-1.951,103.249,10,"Island",0,"Z",0,"Predators (vertebrates)",0.032
+38,-1.952,103.25,20,"Island",1,"D",100,"Predators (vertebrates)",0.232
+39,-1.951,103.252,5,"Island",2,"AC",6,"Predators (vertebrates)",0.282
+40,-1.951,103.257,5,"Island",0,"Z",0,"Predators (vertebrates)",0.335
+41,-1.953,103.244,10,"Island",1,"A",25,"Predators (vertebrates)",0.122
+42,-1.953,103.245,5,"Island",1,"D",6,"Predators (vertebrates)",0.055
+43,-1.95,103.259,40,"Island",1,"C",400,"Predators (vertebrates)",1
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Predators (vertebrates)",0.008
+45,-1.953,103.249,40,"Island",1,"E",400,"Predators (vertebrates)",0.118
+46,-1.954,103.242,40,"Island",2,"AB",400,"Predators (vertebrates)",0.018
+47,-1.954,103.244,20,"Island",2,"BE",100,"Predators (vertebrates)",0.119
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Predators (vertebrates)",0.125
+49,-1.954,103.247,40,"Island",1,"F",400,"Predators (vertebrates)",0.023
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Predators (vertebrates)",0.029
+51,-1.954,103.249,20,"Island",1,"A",100,"Predators (vertebrates)",0.11
+52,-1.955,103.243,40,"Island",1,"D",400,"Predators (vertebrates)",0.004
+53,-1.943,103.255,10,"Control",,,0,"Predators (vertebrates)",0.002
+54,-1.951,103.256,10,"Control",,,0,"Predators (vertebrates)",0.134
+55,-1.951,103.253,10,"Control",,,0,"Predators (vertebrates)",0.004
+56,-1.955,103.246,10,"Control",,,0,"Predators (vertebrates)",0.023
+1,-1.942,103.252,40,"Island",1,"A",400,"1/soil C:N",0.847
+2,-1.942,103.253,20,"Island",3,"ACF",99,"1/soil C:N",0.733
+3,-1.943,103.252,20,"Island",2,"CD",100,"1/soil C:N",0.917
+4,-1.943,103.253,10,"Island",1,"F",25,"1/soil C:N",0.845
+5,-1.945,103.252,40,"Island",1,"B",400,"1/soil C:N",0.758
+6,-1.945,103.253,5,"Island",1,"E",6,"1/soil C:N",0.763
+7,-1.945,103.255,40,"Island",3,"AEF",399,"1/soil C:N",0.808
+8,-1.946,103.249,5,"Island",1,"F",6,"1/soil C:N",0.788
+9,-1.946,103.251,10,"Island",3,"ABD",24,"1/soil C:N",0.742
+10,-1.946,103.252,20,"Island",0,"Z",0,"1/soil C:N",0.827
+11,-1.946,103.253,10,"Island",1,"D",25,"1/soil C:N",0.932
+12,-1.946,103.254,20,"Island",1,"C",100,"1/soil C:N",0.769
+13,-1.946,103.256,10,"Island",1,"E",25,"1/soil C:N",0.775
+14,-1.947,103.249,10,"Island",1,"C",25,"1/soil C:N",0.84
+15,-1.947,103.25,20,"Island",1,"B",100,"1/soil C:N",0.815
+16,-1.947,103.252,5,"Island",3,"ACD",6,"1/soil C:N",0.819
+17,-1.947,103.253,20,"Island",1,"F",100,"1/soil C:N",0.832
+18,-1.947,103.254,5,"Island",2,"DE",6,"1/soil C:N",0.842
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"1/soil C:N",0.872
+20,-1.947,103.257,10,"Island",1,"B",25,"1/soil C:N",0.817
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"1/soil C:N",0.844
+22,-1.949,103.249,5,"Island",2,"BF",6,"1/soil C:N",0.8
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"1/soil C:N",0.826
+24,-1.948,103.254,40,"Island",2,"CE",400,"1/soil C:N",0.862
+25,-1.949,103.256,5,"Island",1,"A",6,"1/soil C:N",0.739
+26,-1.948,103.257,40,"Island",2,"DF",400,"1/soil C:N",0.822
+27,-1.95,103.246,10,"Island",2,"AE",24,"1/soil C:N",0.919
+28,-1.95,103.248,5,"Island",1,"B",6,"1/soil C:N",0.767
+29,-1.95,103.249,40,"Island",3,"BCD",399,"1/soil C:N",0.774
+30,-1.95,103.253,20,"Island",1,"E",100,"1/soil C:N",0.83
+31,-1.95,103.254,5,"Island",1,"C",6,"1/soil C:N",0.855
+32,-1.95,103.256,10,"Island",2,"CF",24,"1/soil C:N",0.821
+33,-1.95,103.257,20,"Island",3,"BDE",99,"1/soil C:N",0.693
+34,-1.951,103.245,10,"Island",2,"BD",24,"1/soil C:N",0.902
+35,-1.952,103.247,40,"Island",0,"Z",0,"1/soil C:N",0.954
+36,-1.951,103.248,20,"Island",2,"AF",100,"1/soil C:N",0.826
+37,-1.951,103.249,10,"Island",0,"Z",0,"1/soil C:N",0.918
+38,-1.952,103.25,20,"Island",1,"D",100,"1/soil C:N",0.889
+39,-1.951,103.252,5,"Island",2,"AC",6,"1/soil C:N",0.901
+40,-1.951,103.257,5,"Island",0,"Z",0,"1/soil C:N",0.844
+41,-1.953,103.244,10,"Island",1,"A",25,"1/soil C:N",0.792
+42,-1.953,103.245,5,"Island",1,"D",6,"1/soil C:N",0.767
+43,-1.95,103.259,40,"Island",1,"C",400,"1/soil C:N",0.714
+44,-1.953,103.248,5,"Island",3,"BEF",6,"1/soil C:N",0.931
+45,-1.953,103.249,40,"Island",1,"E",400,"1/soil C:N",0.922
+46,-1.954,103.242,40,"Island",2,"AB",400,"1/soil C:N",0.906
+47,-1.954,103.244,20,"Island",2,"BE",100,"1/soil C:N",1
+48,-1.954,103.245,10,"Island",3,"CEF",24,"1/soil C:N",0.862
+49,-1.954,103.247,40,"Island",1,"F",400,"1/soil C:N",0.846
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"1/soil C:N",0.826
+51,-1.954,103.249,20,"Island",1,"A",100,"1/soil C:N",0.748
+52,-1.955,103.243,40,"Island",1,"D",400,"1/soil C:N",0.759
+53,-1.943,103.255,10,"Control",,,0,"1/soil C:N",0.725
+54,-1.951,103.256,10,"Control",,,0,"1/soil C:N",0.73
+55,-1.951,103.253,10,"Control",,,0,"1/soil C:N",0.713
+56,-1.955,103.246,10,"Control",,,0,"1/soil C:N",0.82
+1,-1.942,103.252,40,"Island",1,"A",400,"Soil decompaction",0.667
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Soil decompaction",0.608
+3,-1.943,103.252,20,"Island",2,"CD",100,"Soil decompaction",0.71
+4,-1.943,103.253,10,"Island",1,"F",25,"Soil decompaction",0.673
+5,-1.945,103.252,40,"Island",1,"B",400,"Soil decompaction",0.628
+6,-1.945,103.253,5,"Island",1,"E",6,"Soil decompaction",0.639
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Soil decompaction",0.974
+8,-1.946,103.249,5,"Island",1,"F",6,"Soil decompaction",0.618
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Soil decompaction",0.613
+10,-1.946,103.252,20,"Island",0,"Z",0,"Soil decompaction",0.738
+11,-1.946,103.253,10,"Island",1,"D",25,"Soil decompaction",0.639
+12,-1.946,103.254,20,"Island",1,"C",100,"Soil decompaction",0.673
+13,-1.946,103.256,10,"Island",1,"E",25,"Soil decompaction",0.667
+14,-1.947,103.249,10,"Island",1,"C",25,"Soil decompaction",0.639
+15,-1.947,103.25,20,"Island",1,"B",100,"Soil decompaction",0.704
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Soil decompaction",0.655
+17,-1.947,103.253,20,"Island",1,"F",100,"Soil decompaction",0.633
+18,-1.947,103.254,5,"Island",2,"DE",6,"Soil decompaction",0.655
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Soil decompaction",0.673
+20,-1.947,103.257,10,"Island",1,"B",25,"Soil decompaction",0.745
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Soil decompaction",0.608
+22,-1.949,103.249,5,"Island",2,"BF",6,"Soil decompaction",0.598
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Soil decompaction",0.691
+24,-1.948,103.254,40,"Island",2,"CE",400,"Soil decompaction",0.661
+25,-1.949,103.256,5,"Island",1,"A",6,"Soil decompaction",0.704
+26,-1.948,103.257,40,"Island",2,"DF",400,"Soil decompaction",0.576
+27,-1.95,103.246,10,"Island",2,"AE",24,"Soil decompaction",0.745
+28,-1.95,103.248,5,"Island",1,"B",6,"Soil decompaction",0.704
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Soil decompaction",0.608
+30,-1.95,103.253,20,"Island",1,"E",100,"Soil decompaction",0.598
+31,-1.95,103.254,5,"Island",1,"C",6,"Soil decompaction",0.628
+32,-1.95,103.256,10,"Island",2,"CF",24,"Soil decompaction",0.8
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Soil decompaction",0.679
+34,-1.951,103.245,10,"Island",2,"BD",24,"Soil decompaction",0.741
+35,-1.952,103.247,40,"Island",0,"Z",0,"Soil decompaction",0.804
+36,-1.951,103.248,20,"Island",2,"AF",100,"Soil decompaction",0.792
+37,-1.951,103.249,10,"Island",0,"Z",0,"Soil decompaction",0.768
+38,-1.952,103.25,20,"Island",1,"D",100,"Soil decompaction",0.884
+39,-1.951,103.252,5,"Island",2,"AC",6,"Soil decompaction",0.679
+40,-1.951,103.257,5,"Island",0,"Z",0,"Soil decompaction",0.71
+41,-1.953,103.244,10,"Island",1,"A",25,"Soil decompaction",0.704
+42,-1.953,103.245,5,"Island",1,"D",6,"Soil decompaction",0.661
+43,-1.95,103.259,40,"Island",1,"C",400,"Soil decompaction",0.673
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Soil decompaction",0.679
+45,-1.953,103.249,40,"Island",1,"E",400,"Soil decompaction",1
+46,-1.954,103.242,40,"Island",2,"AB",400,"Soil decompaction",0.864
+47,-1.954,103.244,20,"Island",2,"BE",100,"Soil decompaction",0.661
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Soil decompaction",0.691
+49,-1.954,103.247,40,"Island",1,"F",400,"Soil decompaction",0.589
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Soil decompaction",0.784
+51,-1.954,103.249,20,"Island",1,"A",100,"Soil decompaction",0.679
+52,-1.955,103.243,40,"Island",1,"D",400,"Soil decompaction",0.704
+53,-1.943,103.255,10,"Control",,,0,"Soil decompaction",0.65
+54,-1.951,103.256,10,"Control",,,0,"Soil decompaction",0.547
+55,-1.951,103.253,10,"Control",,,0,"Soil decompaction",0.731
+56,-1.955,103.246,10,"Control",,,0,"Soil decompaction",0.65
+1,-1.942,103.252,40,"Island",1,"A",400,"Soil P",0.049
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Soil P",1
+3,-1.943,103.252,20,"Island",2,"CD",100,"Soil P",0.058
+4,-1.943,103.253,10,"Island",1,"F",25,"Soil P",0.574
+5,-1.945,103.252,40,"Island",1,"B",400,"Soil P",0.033
+6,-1.945,103.253,5,"Island",1,"E",6,"Soil P",0.102
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Soil P",0.107
+8,-1.946,103.249,5,"Island",1,"F",6,"Soil P",0.058
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Soil P",0.385
+10,-1.946,103.252,20,"Island",0,"Z",0,"Soil P",0.067
+11,-1.946,103.253,10,"Island",1,"D",25,"Soil P",0.085
+12,-1.946,103.254,20,"Island",1,"C",100,"Soil P",0.256
+13,-1.946,103.256,10,"Island",1,"E",25,"Soil P",0.078
+14,-1.947,103.249,10,"Island",1,"C",25,"Soil P",0.091
+15,-1.947,103.25,20,"Island",1,"B",100,"Soil P",0.055
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Soil P",0.043
+17,-1.947,103.253,20,"Island",1,"F",100,"Soil P",0.353
+18,-1.947,103.254,5,"Island",2,"DE",6,"Soil P",0.073
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Soil P",0.056
+20,-1.947,103.257,10,"Island",1,"B",25,"Soil P",0.1
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Soil P",0.725
+22,-1.949,103.249,5,"Island",2,"BF",6,"Soil P",0.112
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Soil P",0.049
+24,-1.948,103.254,40,"Island",2,"CE",400,"Soil P",0.564
+25,-1.949,103.256,5,"Island",1,"A",6,"Soil P",0.084
+26,-1.948,103.257,40,"Island",2,"DF",400,"Soil P",0.101
+27,-1.95,103.246,10,"Island",2,"AE",24,"Soil P",0.606
+28,-1.95,103.248,5,"Island",1,"B",6,"Soil P",0.293
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Soil P",0.066
+30,-1.95,103.253,20,"Island",1,"E",100,"Soil P",0.056
+31,-1.95,103.254,5,"Island",1,"C",6,"Soil P",0.565
+32,-1.95,103.256,10,"Island",2,"CF",24,"Soil P",0.102
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Soil P",0.182
+34,-1.951,103.245,10,"Island",2,"BD",24,"Soil P",0.079
+35,-1.952,103.247,40,"Island",0,"Z",0,"Soil P",0.22
+36,-1.951,103.248,20,"Island",2,"AF",100,"Soil P",0.088
+37,-1.951,103.249,10,"Island",0,"Z",0,"Soil P",0.477
+38,-1.952,103.25,20,"Island",1,"D",100,"Soil P",0.104
+39,-1.951,103.252,5,"Island",2,"AC",6,"Soil P",0.251
+40,-1.951,103.257,5,"Island",0,"Z",0,"Soil P",0.074
+41,-1.953,103.244,10,"Island",1,"A",25,"Soil P",0.093
+42,-1.953,103.245,5,"Island",1,"D",6,"Soil P",0.055
+43,-1.95,103.259,40,"Island",1,"C",400,"Soil P",0.13
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Soil P",0.077
+45,-1.953,103.249,40,"Island",1,"E",400,"Soil P",0.1
+46,-1.954,103.242,40,"Island",2,"AB",400,"Soil P",0.123
+47,-1.954,103.244,20,"Island",2,"BE",100,"Soil P",0.079
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Soil P",0.403
+49,-1.954,103.247,40,"Island",1,"F",400,"Soil P",0.086
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Soil P",0.094
+51,-1.954,103.249,20,"Island",1,"A",100,"Soil P",0.057
+52,-1.955,103.243,40,"Island",1,"D",400,"Soil P",0.773
+53,-1.943,103.255,10,"Control",,,0,"Soil P",0.4
+54,-1.951,103.256,10,"Control",,,0,"Soil P",0.051
+55,-1.951,103.253,10,"Control",,,0,"Soil P",0.059
+56,-1.955,103.246,10,"Control",,,0,"Soil P",0.044
+1,-1.942,103.252,40,"Island",1,"A",400,"Pollination rate",0.21
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Pollination rate",0.141
+3,-1.943,103.252,20,"Island",2,"CD",100,"Pollination rate",0.547
+4,-1.943,103.253,10,"Island",1,"F",25,"Pollination rate",0.553
+5,-1.945,103.252,40,"Island",1,"B",400,"Pollination rate",0.11
+6,-1.945,103.253,5,"Island",1,"E",6,"Pollination rate",0.399
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Pollination rate",0.69
+8,-1.946,103.249,5,"Island",1,"F",6,"Pollination rate",0.163
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Pollination rate",0.364
+10,-1.946,103.252,20,"Island",0,"Z",0,"Pollination rate",0.251
+11,-1.946,103.253,10,"Island",1,"D",25,"Pollination rate",0.445
+12,-1.946,103.254,20,"Island",1,"C",100,"Pollination rate",0.553
+13,-1.946,103.256,10,"Island",1,"E",25,"Pollination rate",0
+14,-1.947,103.249,10,"Island",1,"C",25,"Pollination rate",0.575
+15,-1.947,103.25,20,"Island",1,"B",100,"Pollination rate",0.385
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Pollination rate",0.539
+17,-1.947,103.253,20,"Island",1,"F",100,"Pollination rate",0.198
+18,-1.947,103.254,5,"Island",2,"DE",6,"Pollination rate",0
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Pollination rate",0.227
+20,-1.947,103.257,10,"Island",1,"B",25,"Pollination rate",0.59
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Pollination rate",0.419
+22,-1.949,103.249,5,"Island",2,"BF",6,"Pollination rate",0
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Pollination rate",0.185
+24,-1.948,103.254,40,"Island",2,"CE",400,"Pollination rate",0.13
+25,-1.949,103.256,5,"Island",1,"A",6,"Pollination rate",0.434
+26,-1.948,103.257,40,"Island",2,"DF",400,"Pollination rate",0.204
+27,-1.95,103.246,10,"Island",2,"AE",24,"Pollination rate",0.029
+28,-1.95,103.248,5,"Island",1,"B",6,"Pollination rate",0.226
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Pollination rate",0.066
+30,-1.95,103.253,20,"Island",1,"E",100,"Pollination rate",0.027
+31,-1.95,103.254,5,"Island",1,"C",6,"Pollination rate",0.42
+32,-1.95,103.256,10,"Island",2,"CF",24,"Pollination rate",0.382
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Pollination rate",0.081
+34,-1.951,103.245,10,"Island",2,"BD",24,"Pollination rate",0.52
+35,-1.952,103.247,40,"Island",0,"Z",0,"Pollination rate",0.492
+36,-1.951,103.248,20,"Island",2,"AF",100,"Pollination rate",1
+37,-1.951,103.249,10,"Island",0,"Z",0,"Pollination rate",0.61
+38,-1.952,103.25,20,"Island",1,"D",100,"Pollination rate",0.287
+39,-1.951,103.252,5,"Island",2,"AC",6,"Pollination rate",0.57
+40,-1.951,103.257,5,"Island",0,"Z",0,"Pollination rate",0.432
+41,-1.953,103.244,10,"Island",1,"A",25,"Pollination rate",0.456
+42,-1.953,103.245,5,"Island",1,"D",6,"Pollination rate",0.16
+43,-1.95,103.259,40,"Island",1,"C",400,"Pollination rate",0.183
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Pollination rate",0.621
+45,-1.953,103.249,40,"Island",1,"E",400,"Pollination rate",0.545
+46,-1.954,103.242,40,"Island",2,"AB",400,"Pollination rate",0.572
+47,-1.954,103.244,20,"Island",2,"BE",100,"Pollination rate",0.403
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Pollination rate",0.343
+49,-1.954,103.247,40,"Island",1,"F",400,"Pollination rate",0.854
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Pollination rate",0.732
+51,-1.954,103.249,20,"Island",1,"A",100,"Pollination rate",0.987
+52,-1.955,103.243,40,"Island",1,"D",400,"Pollination rate",0.056
+53,-1.943,103.255,10,"Control",,,0,"Pollination rate",0.302
+54,-1.951,103.256,10,"Control",,,0,"Pollination rate",0.294
+55,-1.951,103.253,10,"Control",,,0,"Pollination rate",0.113
+56,-1.955,103.246,10,"Control",,,0,"Pollination rate",0.792
+1,-1.942,103.252,40,"Island",1,"A",400,"Pollinators",0.179
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Pollinators",0.187
+3,-1.943,103.252,20,"Island",2,"CD",100,"Pollinators",0.593
+4,-1.943,103.253,10,"Island",1,"F",25,"Pollinators",0.293
+5,-1.945,103.252,40,"Island",1,"B",400,"Pollinators",0.228
+6,-1.945,103.253,5,"Island",1,"E",6,"Pollinators",0.154
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Pollinators",0.138
+8,-1.946,103.249,5,"Island",1,"F",6,"Pollinators",0.228
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Pollinators",0.285
+10,-1.946,103.252,20,"Island",0,"Z",0,"Pollinators",0.659
+11,-1.946,103.253,10,"Island",1,"D",25,"Pollinators",0.333
+12,-1.946,103.254,20,"Island",1,"C",100,"Pollinators",0.528
+13,-1.946,103.256,10,"Island",1,"E",25,"Pollinators",0.171
+14,-1.947,103.249,10,"Island",1,"C",25,"Pollinators",0.398
+15,-1.947,103.25,20,"Island",1,"B",100,"Pollinators",0.293
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Pollinators",0.073
+17,-1.947,103.253,20,"Island",1,"F",100,"Pollinators",0.537
+18,-1.947,103.254,5,"Island",2,"DE",6,"Pollinators",0.179
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Pollinators",0.203
+20,-1.947,103.257,10,"Island",1,"B",25,"Pollinators",0.512
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Pollinators",0.154
+22,-1.949,103.249,5,"Island",2,"BF",6,"Pollinators",0.146
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Pollinators",0.098
+24,-1.948,103.254,40,"Island",2,"CE",400,"Pollinators",0.171
+25,-1.949,103.256,5,"Island",1,"A",6,"Pollinators",0.154
+26,-1.948,103.257,40,"Island",2,"DF",400,"Pollinators",0.48
+27,-1.95,103.246,10,"Island",2,"AE",24,"Pollinators",0.146
+28,-1.95,103.248,5,"Island",1,"B",6,"Pollinators",0.081
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Pollinators",0.179
+30,-1.95,103.253,20,"Island",1,"E",100,"Pollinators",0.114
+31,-1.95,103.254,5,"Island",1,"C",6,"Pollinators",0.138
+32,-1.95,103.256,10,"Island",2,"CF",24,"Pollinators",0.447
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Pollinators",0.163
+34,-1.951,103.245,10,"Island",2,"BD",24,"Pollinators",0.39
+35,-1.952,103.247,40,"Island",0,"Z",0,"Pollinators",0.106
+36,-1.951,103.248,20,"Island",2,"AF",100,"Pollinators",0.407
+37,-1.951,103.249,10,"Island",0,"Z",0,"Pollinators",0.106
+38,-1.952,103.25,20,"Island",1,"D",100,"Pollinators",0.114
+39,-1.951,103.252,5,"Island",2,"AC",6,"Pollinators",0.154
+40,-1.951,103.257,5,"Island",0,"Z",0,"Pollinators",0.098
+41,-1.953,103.244,10,"Island",1,"A",25,"Pollinators",0.358
+42,-1.953,103.245,5,"Island",1,"D",6,"Pollinators",0.13
+43,-1.95,103.259,40,"Island",1,"C",400,"Pollinators",1
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Pollinators",0.057
+45,-1.953,103.249,40,"Island",1,"E",400,"Pollinators",0.089
+46,-1.954,103.242,40,"Island",2,"AB",400,"Pollinators",0.098
+47,-1.954,103.244,20,"Island",2,"BE",100,"Pollinators",0.138
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Pollinators",0.089
+49,-1.954,103.247,40,"Island",1,"F",400,"Pollinators",0.285
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Pollinators",0.073
+51,-1.954,103.249,20,"Island",1,"A",100,"Pollinators",0.154
+52,-1.955,103.243,40,"Island",1,"D",400,"Pollinators",0.39
+53,-1.943,103.255,10,"Control",,,0,"Pollinators",0.081
+54,-1.951,103.256,10,"Control",,,0,"Pollinators",0.122
+55,-1.951,103.253,10,"Control",,,0,"Pollinators",0.341
+56,-1.955,103.246,10,"Control",,,0,"Pollinators",0.22
+1,-1.942,103.252,40,"Island",1,"A",400,"Resistance to invasive plants",0.45
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Resistance to invasive plants",1
+3,-1.943,103.252,20,"Island",2,"CD",100,"Resistance to invasive plants",0.95
+4,-1.943,103.253,10,"Island",1,"F",25,"Resistance to invasive plants",0.55
+5,-1.945,103.252,40,"Island",1,"B",400,"Resistance to invasive plants",0.45
+6,-1.945,103.253,5,"Island",1,"E",6,"Resistance to invasive plants",0.65
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Resistance to invasive plants",0.9
+8,-1.946,103.249,5,"Island",1,"F",6,"Resistance to invasive plants",0.5
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Resistance to invasive plants",0.65
+10,-1.946,103.252,20,"Island",0,"Z",0,"Resistance to invasive plants",0.65
+11,-1.946,103.253,10,"Island",1,"D",25,"Resistance to invasive plants",0.65
+12,-1.946,103.254,20,"Island",1,"C",100,"Resistance to invasive plants",0.88
+13,-1.946,103.256,10,"Island",1,"E",25,"Resistance to invasive plants",0.82
+14,-1.947,103.249,10,"Island",1,"C",25,"Resistance to invasive plants",0.9
+15,-1.947,103.25,20,"Island",1,"B",100,"Resistance to invasive plants",0.5
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Resistance to invasive plants",0.5
+17,-1.947,103.253,20,"Island",1,"F",100,"Resistance to invasive plants",0.7
+18,-1.947,103.254,5,"Island",2,"DE",6,"Resistance to invasive plants",0.5
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Resistance to invasive plants",0.72
+20,-1.947,103.257,10,"Island",1,"B",25,"Resistance to invasive plants",0.55
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Resistance to invasive plants",0.94
+22,-1.949,103.249,5,"Island",2,"BF",6,"Resistance to invasive plants",0.6
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Resistance to invasive plants",0.85
+24,-1.948,103.254,40,"Island",2,"CE",400,"Resistance to invasive plants",0.75
+25,-1.949,103.256,5,"Island",1,"A",6,"Resistance to invasive plants",0.55
+26,-1.948,103.257,40,"Island",2,"DF",400,"Resistance to invasive plants",0.35
+27,-1.95,103.246,10,"Island",2,"AE",24,"Resistance to invasive plants",0.94
+28,-1.95,103.248,5,"Island",1,"B",6,"Resistance to invasive plants",0.7
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Resistance to invasive plants",0.75
+30,-1.95,103.253,20,"Island",1,"E",100,"Resistance to invasive plants",0.91
+31,-1.95,103.254,5,"Island",1,"C",6,"Resistance to invasive plants",0.7
+32,-1.95,103.256,10,"Island",2,"CF",24,"Resistance to invasive plants",0.65
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Resistance to invasive plants",0.88
+34,-1.951,103.245,10,"Island",2,"BD",24,"Resistance to invasive plants",0.9
+35,-1.952,103.247,40,"Island",0,"Z",0,"Resistance to invasive plants",0.85
+36,-1.951,103.248,20,"Island",2,"AF",100,"Resistance to invasive plants",0.45
+37,-1.951,103.249,10,"Island",0,"Z",0,"Resistance to invasive plants",0.75
+38,-1.952,103.25,20,"Island",1,"D",100,"Resistance to invasive plants",0.3
+39,-1.951,103.252,5,"Island",2,"AC",6,"Resistance to invasive plants",0.5
+40,-1.951,103.257,5,"Island",0,"Z",0,"Resistance to invasive plants",0.35
+41,-1.953,103.244,10,"Island",1,"A",25,"Resistance to invasive plants",0.94
+42,-1.953,103.245,5,"Island",1,"D",6,"Resistance to invasive plants",0.45
+43,-1.95,103.259,40,"Island",1,"C",400,"Resistance to invasive plants",0.83
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Resistance to invasive plants",0.55
+45,-1.953,103.249,40,"Island",1,"E",400,"Resistance to invasive plants",0.8
+46,-1.954,103.242,40,"Island",2,"AB",400,"Resistance to invasive plants",0.7
+47,-1.954,103.244,20,"Island",2,"BE",100,"Resistance to invasive plants",0.65
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Resistance to invasive plants",0.4
+49,-1.954,103.247,40,"Island",1,"F",400,"Resistance to invasive plants",0.8
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Resistance to invasive plants",0.9
+51,-1.954,103.249,20,"Island",1,"A",100,"Resistance to invasive plants",0.6
+52,-1.955,103.243,40,"Island",1,"D",400,"Resistance to invasive plants",0.75
+53,-1.943,103.255,10,"Control",,,0,"Resistance to invasive plants",0.87
+54,-1.951,103.256,10,"Control",,,0,"Resistance to invasive plants",0.75
+55,-1.951,103.253,10,"Control",,,0,"Resistance to invasive plants",0.9
+56,-1.955,103.246,10,"Control",,,0,"Resistance to invasive plants",0.78
+1,-1.942,103.252,40,"Island",1,"A",400,"Native seeds",0.098
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Native seeds",0.001
+3,-1.943,103.252,20,"Island",2,"CD",100,"Native seeds",0.009
+4,-1.943,103.253,10,"Island",1,"F",25,"Native seeds",1
+5,-1.945,103.252,40,"Island",1,"B",400,"Native seeds",0.024
+6,-1.945,103.253,5,"Island",1,"E",6,"Native seeds",0.002
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Native seeds",0.014
+8,-1.946,103.249,5,"Island",1,"F",6,"Native seeds",0.013
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Native seeds",0.15
+10,-1.946,103.252,20,"Island",0,"Z",0,"Native seeds",0.038
+11,-1.946,103.253,10,"Island",1,"D",25,"Native seeds",0.005
+12,-1.946,103.254,20,"Island",1,"C",100,"Native seeds",0.037
+13,-1.946,103.256,10,"Island",1,"E",25,"Native seeds",0.013
+14,-1.947,103.249,10,"Island",1,"C",25,"Native seeds",0.011
+15,-1.947,103.25,20,"Island",1,"B",100,"Native seeds",0.006
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Native seeds",0.011
+17,-1.947,103.253,20,"Island",1,"F",100,"Native seeds",0.018
+18,-1.947,103.254,5,"Island",2,"DE",6,"Native seeds",0.016
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Native seeds",0.02
+20,-1.947,103.257,10,"Island",1,"B",25,"Native seeds",0.017
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Native seeds",0.01
+22,-1.949,103.249,5,"Island",2,"BF",6,"Native seeds",0.002
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Native seeds",0.028
+24,-1.948,103.254,40,"Island",2,"CE",400,"Native seeds",0.001
+25,-1.949,103.256,5,"Island",1,"A",6,"Native seeds",0.001
+26,-1.948,103.257,40,"Island",2,"DF",400,"Native seeds",0.008
+27,-1.95,103.246,10,"Island",2,"AE",24,"Native seeds",0.004
+28,-1.95,103.248,5,"Island",1,"B",6,"Native seeds",0.006
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Native seeds",0.272
+30,-1.95,103.253,20,"Island",1,"E",100,"Native seeds",0.002
+31,-1.95,103.254,5,"Island",1,"C",6,"Native seeds",0.011
+32,-1.95,103.256,10,"Island",2,"CF",24,"Native seeds",0.053
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Native seeds",0.001
+34,-1.951,103.245,10,"Island",2,"BD",24,"Native seeds",0.011
+35,-1.952,103.247,40,"Island",0,"Z",0,"Native seeds",0.014
+36,-1.951,103.248,20,"Island",2,"AF",100,"Native seeds",0.02
+37,-1.951,103.249,10,"Island",0,"Z",0,"Native seeds",0.002
+38,-1.952,103.25,20,"Island",1,"D",100,"Native seeds",0.374
+39,-1.951,103.252,5,"Island",2,"AC",6,"Native seeds",0.007
+40,-1.951,103.257,5,"Island",0,"Z",0,"Native seeds",0.01
+41,-1.953,103.244,10,"Island",1,"A",25,"Native seeds",0.04
+42,-1.953,103.245,5,"Island",1,"D",6,"Native seeds",0.021
+43,-1.95,103.259,40,"Island",1,"C",400,"Native seeds",0.051
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Native seeds",0.006
+45,-1.953,103.249,40,"Island",1,"E",400,"Native seeds",0.001
+46,-1.954,103.242,40,"Island",2,"AB",400,"Native seeds",0.006
+47,-1.954,103.244,20,"Island",2,"BE",100,"Native seeds",0.036
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Native seeds",0.046
+49,-1.954,103.247,40,"Island",1,"F",400,"Native seeds",0.091
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Native seeds",0.072
+51,-1.954,103.249,20,"Island",1,"A",100,"Native seeds",0.016
+52,-1.955,103.243,40,"Island",1,"D",400,"Native seeds",0.055
+53,-1.943,103.255,10,"Control",,,0,"Native seeds",0.004
+54,-1.951,103.256,10,"Control",,,0,"Native seeds",0.007
+55,-1.951,103.253,10,"Control",,,0,"Native seeds",0.044
+56,-1.955,103.246,10,"Control",,,0,"Native seeds",0.04
+1,-1.942,103.252,40,"Island",1,"A",400,"Aboveground biomass",0.448
+2,-1.942,103.253,20,"Island",3,"ACF",99,"Aboveground biomass",0.377
+3,-1.943,103.252,20,"Island",2,"CD",100,"Aboveground biomass",0.378
+4,-1.943,103.253,10,"Island",1,"F",25,"Aboveground biomass",0.393
+5,-1.945,103.252,40,"Island",1,"B",400,"Aboveground biomass",0.447
+6,-1.945,103.253,5,"Island",1,"E",6,"Aboveground biomass",0.655
+7,-1.945,103.255,40,"Island",3,"AEF",399,"Aboveground biomass",0.479
+8,-1.946,103.249,5,"Island",1,"F",6,"Aboveground biomass",0.516
+9,-1.946,103.251,10,"Island",3,"ABD",24,"Aboveground biomass",0.483
+10,-1.946,103.252,20,"Island",0,"Z",0,"Aboveground biomass",0.289
+11,-1.946,103.253,10,"Island",1,"D",25,"Aboveground biomass",0.523
+12,-1.946,103.254,20,"Island",1,"C",100,"Aboveground biomass",0.379
+13,-1.946,103.256,10,"Island",1,"E",25,"Aboveground biomass",1
+14,-1.947,103.249,10,"Island",1,"C",25,"Aboveground biomass",0.557
+15,-1.947,103.25,20,"Island",1,"B",100,"Aboveground biomass",0.528
+16,-1.947,103.252,5,"Island",3,"ACD",6,"Aboveground biomass",0.493
+17,-1.947,103.253,20,"Island",1,"F",100,"Aboveground biomass",0.475
+18,-1.947,103.254,5,"Island",2,"DE",6,"Aboveground biomass",0.588
+19,-1.947,103.256,20,"Island",6,"ABCDEF",96,"Aboveground biomass",0.498
+20,-1.947,103.257,10,"Island",1,"B",25,"Aboveground biomass",0.502
+21,-1.949,103.248,10,"Island",6,"ABCDEF",24,"Aboveground biomass",0.602
+22,-1.949,103.249,5,"Island",2,"BF",6,"Aboveground biomass",0.533
+23,-1.949,103.251,40,"Island",6,"ABCDEF",396,"Aboveground biomass",0.514
+24,-1.948,103.254,40,"Island",2,"CE",400,"Aboveground biomass",0.626
+25,-1.949,103.256,5,"Island",1,"A",6,"Aboveground biomass",0.734
+26,-1.948,103.257,40,"Island",2,"DF",400,"Aboveground biomass",0.449
+27,-1.95,103.246,10,"Island",2,"AE",24,"Aboveground biomass",0.913
+28,-1.95,103.248,5,"Island",1,"B",6,"Aboveground biomass",0.48
+29,-1.95,103.249,40,"Island",3,"BCD",399,"Aboveground biomass",0.419
+30,-1.95,103.253,20,"Island",1,"E",100,"Aboveground biomass",0.803
+31,-1.95,103.254,5,"Island",1,"C",6,"Aboveground biomass",0.508
+32,-1.95,103.256,10,"Island",2,"CF",24,"Aboveground biomass",0.404
+33,-1.95,103.257,20,"Island",3,"BDE",99,"Aboveground biomass",0.637
+34,-1.951,103.245,10,"Island",2,"BD",24,"Aboveground biomass",0.49
+35,-1.952,103.247,40,"Island",0,"Z",0,"Aboveground biomass",0.376
+36,-1.951,103.248,20,"Island",2,"AF",100,"Aboveground biomass",0.4
+37,-1.951,103.249,10,"Island",0,"Z",0,"Aboveground biomass",0.376
+38,-1.952,103.25,20,"Island",1,"D",100,"Aboveground biomass",0.395
+39,-1.951,103.252,5,"Island",2,"AC",6,"Aboveground biomass",0.569
+40,-1.951,103.257,5,"Island",0,"Z",0,"Aboveground biomass",0.604
+41,-1.953,103.244,10,"Island",1,"A",25,"Aboveground biomass",0.493
+42,-1.953,103.245,5,"Island",1,"D",6,"Aboveground biomass",0.509
+43,-1.95,103.259,40,"Island",1,"C",400,"Aboveground biomass",0.379
+44,-1.953,103.248,5,"Island",3,"BEF",6,"Aboveground biomass",0.54
+45,-1.953,103.249,40,"Island",1,"E",400,"Aboveground biomass",0.61
+46,-1.954,103.242,40,"Island",2,"AB",400,"Aboveground biomass",0.378
+47,-1.954,103.244,20,"Island",2,"BE",100,"Aboveground biomass",0.515
+48,-1.954,103.245,10,"Island",3,"CEF",24,"Aboveground biomass",0.644
+49,-1.954,103.247,40,"Island",1,"F",400,"Aboveground biomass",0.385
+50,-1.954,103.248,5,"Island",6,"ABCDEF",6,"Aboveground biomass",0.503
+51,-1.954,103.249,20,"Island",1,"A",100,"Aboveground biomass",0.699
+52,-1.955,103.243,40,"Island",1,"D",400,"Aboveground biomass",0.367
+53,-1.943,103.255,10,"Control",,,0,"Aboveground biomass",0.341
+54,-1.951,103.256,10,"Control",,,0,"Aboveground biomass",0.565
+55,-1.951,103.253,10,"Control",,,0,"Aboveground biomass",0.555
+56,-1.955,103.246,10,"Control",,,0,"Aboveground biomass",0.536
