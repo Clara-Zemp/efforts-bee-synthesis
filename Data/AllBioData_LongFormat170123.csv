@@ -1,0 +1,1681 @@
+"PlotID","Hill","Lat","Long","Size","Treatment","DivLev","Composition","Nb_planted_trees","Taxa","Diversity"
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Bats",2
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Bats",2
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Bats",2
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Bats",2
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Bats",1.9
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Bats",1.8
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Bats",2
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Bats",2
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Bats",2
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Bats",3
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Bats",3
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Bats",3
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Bats",3
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Bats",3
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Bats",3
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Bats",4
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Bats",4
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Bats",4
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Bats",2
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Bats",2
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Bats",2
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Bats",2
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Bats",2
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Bats",2
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Bats",2
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Bats",2
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Bats",2
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Bats",3
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Bats",3
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Bats",3
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Bats",3.8
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Bats",4
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Bats",3.6
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Bats",3
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Bats",3
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Bats",3
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Bats",3
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Bats",3
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Bats",3
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Bats",2
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Bats",2
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Bats",2
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Bats",3
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Bats",3
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Bats",3
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Bats",3
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Bats",3
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Bats",3
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Bats",2
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Bats",2
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Bats",2
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Bats",3
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Bats",3
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Bats",3
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Bats",2.7
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Bats",3
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Bats",2.8
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Bats",2.7
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Bats",2.8
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Bats",3
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Bats",3
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Bats",3
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Bats",3
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Bats",3
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Bats",3
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Bats",3
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Bats",2
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Bats",2
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Bats",2
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Bats",3.6
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Bats",3.8
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Bats",4
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Bats",2.8
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Bats",3
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Bats",2.7
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Bats",2.7
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Bats",2.8
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Bats",3
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Bats",4
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Bats",4
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Bats",4
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Bats",4
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Bats",4
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Bats",4
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Bats",2
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Bats",2
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Bats",2
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Bats",4
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Bats",4
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Bats",4
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Bats",2
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Bats",2
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Bats",2
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Bats",2
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Bats",2
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Bats",2
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Bats",2
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Bats",2
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Bats",2
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Bats",2.9
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Bats",3
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Bats",2.8
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Bats",2
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Bats",2
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Bats",2
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Bats",2
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Bats",1.8
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Bats",1.9
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Bats",4
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Bats",4
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Bats",4
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Bats",2
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Bats",2
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Bats",2
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Bats",3
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Bats",3
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Bats",3
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Bats",2
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Bats",2
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Bats",2
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Bats",1
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Bats",1
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Bats",1
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Bats",3
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Bats",3
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Bats",3
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Bats",1
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Bats",1
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Bats",1
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Bats",1
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Bats",1
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Bats",1
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Bats",1
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Bats",1
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Bats",1
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Bats",2
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Bats",2
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Bats",2
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Bats",2.8
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Bats",2.7
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Bats",3
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Bats",1
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Bats",1
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Bats",1
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Bats",2
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Bats",2
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Bats",2
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Bats",3
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Bats",3
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Bats",3
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Bats",2
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Bats",2
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Bats",2
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Bats",2
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Bats",2
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Bats",2
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Bats",1
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Bats",1
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Bats",1
+54,"Species richness",-2,103.3,10,"Control",,,0,"Bats",2
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Bats",2
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Bats",2
+55,"Species richness",-2,103.3,10,"Control",,,0,"Bats",2
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Bats",2
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Bats",2
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Bats",3
+56,"Species richness",-2,103.2,10,"Control",,,0,"Bats",3
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Bats",3
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Birds",2
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Birds",2
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Birds",2
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Birds",3
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Birds",2.8
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Birds",2.7
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Birds",2.8
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Birds",3
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Birds",2.7
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Birds",4
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Birds",4
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Birds",4
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Birds",3
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Birds",3
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Birds",3
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Birds",3
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Birds",2.7
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Birds",2.8
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Birds",4
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Birds",4
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Birds",4
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Birds",5
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Birds",4.2
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Birds",6
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Birds",2
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Birds",2
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Birds",2
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Birds",5.5
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Birds",8
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Birds",6.5
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Birds",6
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Birds",7
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Birds",5.3
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Birds",2.6
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Birds",2.3
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Birds",3
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Birds",3.3
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Birds",4.5
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Birds",6
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Birds",3
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Birds",3
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Birds",3
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Birds",6
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Birds",5.1
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Birds",4.5
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Birds",5
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Birds",6
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Birds",4.3
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Birds",5.4
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Birds",6.2
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Birds",7
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Birds",0
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Birds",0
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Birds",0
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Birds",3.6
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Birds",4
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Birds",3.8
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Birds",1
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Birds",1
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Birds",1
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Birds",0
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Birds",0
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Birds",0
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Birds",1
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Birds",1
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Birds",1
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Birds",7
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Birds",4.5
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Birds",5.7
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Birds",3.4
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Birds",3.6
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Birds",4
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Birds",1
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Birds",1
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Birds",1
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Birds",4.3
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Birds",4.6
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Birds",5
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Birds",0
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Birds",0
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Birds",0
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Birds",2
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Birds",1.8
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Birds",1.9
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Birds",2
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Birds",2
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Birds",2
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Birds",7
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Birds",5.2
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Birds",5.9
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Birds",2.3
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Birds",2.6
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Birds",3
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Birds",5
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Birds",3.2
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Birds",4
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Birds",2.7
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Birds",2.8
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Birds",3
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Birds",2
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Birds",2
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Birds",2
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Birds",1.9
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Birds",2
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Birds",1.8
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Birds",0
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Birds",0
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Birds",0
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Birds",1
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Birds",1
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Birds",1
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Birds",5.7
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Birds",4.8
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Birds",7
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Birds",4.7
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Birds",4.5
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Birds",5
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Birds",3.9
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Birds",4.3
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Birds",5
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Birds",3
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Birds",2.7
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Birds",2.8
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Birds",2
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Birds",2
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Birds",2
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Birds",2.8
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Birds",3
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Birds",2.7
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Birds",1
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Birds",1
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Birds",1
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Birds",3.3
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Birds",4
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Birds",3.6
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Birds",2
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Birds",2
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Birds",2
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Birds",0
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Birds",0
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Birds",0
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Birds",1
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Birds",1
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Birds",1
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Birds",2
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Birds",2
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Birds",2
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Birds",1
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Birds",1
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Birds",1
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Birds",1
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Birds",1
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Birds",1
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Birds",0
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Birds",0
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Birds",0
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Birds",0
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Birds",0
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Birds",0
+54,"Species richness",-2,103.3,10,"Control",,,0,"Birds",2
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Birds",1.8
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Birds",1.9
+55,"Species richness",-2,103.3,10,"Control",,,0,"Birds",0
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Birds",0
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Birds",0
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Birds",1
+56,"Species richness",-2,103.2,10,"Control",,,0,"Birds",1
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Birds",1
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Arthropods",84
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Arthropods",10.9
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Arthropods",22.6
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Arthropods",86
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Arthropods",14.1
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Arthropods",7.4
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Arthropods",28.7
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Arthropods",89
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Arthropods",15.2
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Arthropods",10.9
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Arthropods",22
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Arthropods",82
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Arthropods",6.2
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Arthropods",93
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Arthropods",17.3
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Arthropods",69
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Arthropods",7.6
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Arthropods",19.3
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Arthropods",27.7
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Arthropods",11.6
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Arthropods",84
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Arthropods",25.6
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Arthropods",13.5
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Arthropods",56
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Arthropods",4.6
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Arthropods",68
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Arthropods",13.8
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Arthropods",14.3
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Arthropods",101
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Arthropods",27
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Arthropods",17.2
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Arthropods",65
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Arthropods",6.4
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Arthropods",20.2
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Arthropods",9.9
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Arthropods",66
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Arthropods",9.3
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Arthropods",22.1
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Arthropods",85
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Arthropods",96
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Arthropods",8.8
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Arthropods",25
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Arthropods",70
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Arthropods",22.5
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Arthropods",9.9
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Arthropods",14.9
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Arthropods",55
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Arthropods",5.6
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Arthropods",12.8
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Arthropods",27.3
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Arthropods",110
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Arthropods",4.7
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Arthropods",58
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Arthropods",11.8
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Arthropods",5.9
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Arthropods",96
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Arthropods",16.5
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Arthropods",18.4
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Arthropods",34.9
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Arthropods",82
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Arthropods",14.8
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Arthropods",69
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Arthropods",5.5
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Arthropods",51
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Arthropods",6.6
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Arthropods",15.6
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Arthropods",56
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Arthropods",5.4
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Arthropods",14.8
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Arthropods",13.2
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Arthropods",27.4
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Arthropods",89
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Arthropods",20
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Arthropods",55
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Arthropods",8.7
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Arthropods",16.5
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Arthropods",33.9
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Arthropods",81
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Arthropods",14.8
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Arthropods",77
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Arthropods",5.3
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Arthropods",62
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Arthropods",4.8
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Arthropods",11.9
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Arthropods",18.6
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Arthropods",69
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Arthropods",8.5
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Arthropods",61
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Arthropods",14.2
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Arthropods",29.1
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Arthropods",8.2
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Arthropods",19.2
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Arthropods",65
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Arthropods",84
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Arthropods",10.3
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Arthropods",25.6
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Arthropods",7.5
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Arthropods",20.7
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Arthropods",76
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Arthropods",40.5
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Arthropods",135
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Arthropods",16.4
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Arthropods",31.7
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Arthropods",78
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Arthropods",15.7
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Arthropods",104
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Arthropods",15
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Arthropods",34
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Arthropods",17.6
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Arthropods",30.9
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Arthropods",67
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Arthropods",27.4
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Arthropods",14.2
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Arthropods",60
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Arthropods",25.7
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Arthropods",11.9
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Arthropods",60
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Arthropods",11.3
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Arthropods",22.4
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Arthropods",49
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Arthropods",101
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Arthropods",12
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Arthropods",27.1
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Arthropods",61
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Arthropods",27.8
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Arthropods",14.5
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Arthropods",28
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Arthropods",99
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Arthropods",13.3
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Arthropods",12.8
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Arthropods",25.5
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Arthropods",54
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Arthropods",12.7
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Arthropods",79
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Arthropods",32
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Arthropods",52
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Arthropods",8.8
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Arthropods",17.6
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Arthropods",23.1
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Arthropods",10.8
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Arthropods",71
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Arthropods",25.5
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Arthropods",13.6
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Arthropods",60
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Arthropods",11.2
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Arthropods",106
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Arthropods",29.4
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Arthropods",10.3
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Arthropods",75
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Arthropods",22.9
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Arthropods",34.8
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Arthropods",71
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Arthropods",18.5
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Arthropods",21.2
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Arthropods",7.7
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Arthropods",91
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Arthropods",11.7
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Arthropods",24.5
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Arthropods",65
+54,"Species richness",-2,103.3,10,"Control",,,0,"Arthropods",58
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Arthropods",10
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Arthropods",23.3
+55,"Species richness",-2,103.3,10,"Control",,,0,"Arthropods",68
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Arthropods",19.6
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Arthropods",8.8
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Arthropods",20.1
+56,"Species richness",-2,103.2,10,"Control",,,0,"Arthropods",70
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Arthropods",7.6
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Herbs",14
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Herbs",5.3
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Herbs",7.4
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Herbs",6
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Herbs",2.7
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Herbs",2.2
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Herbs",5.9
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Herbs",7
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Herbs",5.5
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Herbs",3.9
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Herbs",6.2
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Herbs",14
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Herbs",8.4
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Herbs",13
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Herbs",10.1
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Herbs",14
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Herbs",4.8
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Herbs",7.7
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Herbs",5.4
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Herbs",3.7
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Herbs",15
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Herbs",7.3
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Herbs",5.7
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Herbs",13
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Herbs",4.8
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Herbs",10
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Herbs",5.8
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Herbs",2.3
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Herbs",6
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Herbs",3
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Herbs",8.3
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Herbs",16
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Herbs",4.9
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Herbs",9
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Herbs",7.1
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Herbs",14
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Herbs",5.9
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Herbs",9.3
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Herbs",13
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Herbs",8
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Herbs",2.3
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Herbs",3.7
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Herbs",5
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Herbs",3.2
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Herbs",2.4
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Herbs",8.3
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Herbs",12
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Herbs",6.6
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Herbs",5.1
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Herbs",8.2
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Herbs",15
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Herbs",5.4
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Herbs",19
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Herbs",9.2
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Herbs",12.3
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Herbs",17
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Herbs",14.6
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Herbs",5.2
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Herbs",8.6
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Herbs",18
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Herbs",3.4
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Herbs",13
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Herbs",2
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Herbs",17
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Herbs",4.3
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Herbs",7.5
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Herbs",9
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Herbs",2.3
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Herbs",3.9
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Herbs",6.9
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Herbs",8.2
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Herbs",10
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Herbs",9.7
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Herbs",16
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Herbs",6.4
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Herbs",5
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Herbs",6.8
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Herbs",10
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Herbs",2.7
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Herbs",7
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Herbs",1.7
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Herbs",17
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Herbs",8.7
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Herbs",11.4
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Herbs",5.5
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Herbs",9
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Herbs",4.4
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Herbs",8
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Herbs",3.3
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Herbs",4.7
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Herbs",5.5
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Herbs",7.9
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Herbs",13
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Herbs",16
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Herbs",5.6
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Herbs",9.2
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Herbs",4.5
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Herbs",6.5
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Herbs",11
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Herbs",4.5
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Herbs",12
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Herbs",2.7
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Herbs",8.4
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Herbs",21
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Herbs",4.7
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Herbs",11
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Herbs",8.4
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Herbs",9.4
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Herbs",2.6
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Herbs",3.1
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Herbs",6
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Herbs",9.8
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Herbs",6.7
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Herbs",18
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Herbs",8.8
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Herbs",4.6
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Herbs",22
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Herbs",2.8
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Herbs",4.7
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Herbs",13
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Herbs",9
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Herbs",2.5
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Herbs",3.7
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Herbs",17
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Herbs",11.5
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Herbs",9.2
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Herbs",2
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Herbs",7
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Herbs",1.5
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Herbs",12.7
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Herbs",14.8
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Herbs",18
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Herbs",5.3
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Herbs",16
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Herbs",7.8
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Herbs",15
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Herbs",9.1
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Herbs",11.2
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Herbs",10.2
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Herbs",8
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Herbs",15
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Herbs",11.8
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Herbs",7.9
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Herbs",21
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Herbs",4.8
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Herbs",15
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Herbs",7.5
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Herbs",4.1
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Herbs",10
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Herbs",5.8
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Herbs",6.8
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Herbs",11
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Herbs",4.8
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Herbs",4.4
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Herbs",3.6
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Herbs",8
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Herbs",8.3
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Herbs",9.6
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Herbs",12
+54,"Species richness",-2,103.3,10,"Control",,,0,"Herbs",15
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Herbs",3.6
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Herbs",6.5
+55,"Species richness",-2,103.3,10,"Control",,,0,"Herbs",17
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Herbs",11.3
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Herbs",7.8
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Herbs",8.6
+56,"Species richness",-2,103.2,10,"Control",,,0,"Herbs",15
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Herbs",6.4
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Pollen",8
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Pollen",2.5
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Pollen",3.7
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Pollen",7
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Pollen",1.8
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Pollen",1.3
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Pollen",3
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Pollen",8
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Pollen",2.2
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Pollen",3.3
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Pollen",4
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Pollen",6
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Pollen",1
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Pollen",2
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Pollen",1.1
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Pollen",9
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Pollen",1.5
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Pollen",2.3
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Pollen",4
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Pollen",2.8
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Pollen",8
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Pollen",1.1
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Pollen",1
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Pollen",3
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Pollen",1.1
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Pollen",7
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Pollen",1.4
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Pollen",2.7
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Pollen",12
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Pollen",4
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Pollen",4
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Pollen",13
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Pollen",2.2
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Pollen",3
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Pollen",2.2
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Pollen",8
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Pollen",3.1
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Pollen",5
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Pollen",12
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Pollen",5
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Pollen",1.2
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Pollen",1.4
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Pollen",4
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Pollen",1.2
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Pollen",1.1
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Pollen",1.7
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Pollen",7
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Pollen",1.3
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Pollen",6.5
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Pollen",10
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Pollen",17
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Pollen",3.7
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Pollen",12
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Pollen",5.2
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Pollen",3.4
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Pollen",13
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Pollen",5.7
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Pollen",3
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Pollen",5.8
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Pollen",15
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Pollen",1.2
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Pollen",4
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Pollen",1.1
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Pollen",5
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Pollen",1.1
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Pollen",1.3
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Pollen",5
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Pollen",1.1
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Pollen",1.3
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Pollen",3.8
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Pollen",7.1
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Pollen",16
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Pollen",1.5
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Pollen",9
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Pollen",1.2
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Pollen",3.1
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Pollen",4.9
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Pollen",11
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Pollen",1.4
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Pollen",6
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Pollen",1.1
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Pollen",
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Pollen",
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Pollen",
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Pollen",1.3
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Pollen",6
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Pollen",1.1
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Pollen",10
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Pollen",2.3
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Pollen",3.7
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Pollen",1.6
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Pollen",2.5
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Pollen",9
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Pollen",6
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Pollen",1.6
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Pollen",2.2
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Pollen",1.6
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Pollen",2.5
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Pollen",8
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Pollen",
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Pollen",
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Pollen",
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Pollen",1
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Pollen",1
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Pollen",1
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Pollen",3
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Pollen",1.1
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Pollen",1.1
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Pollen",1.2
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Pollen",1.7
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Pollen",10
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Pollen",1.5
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Pollen",1.2
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Pollen",5
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Pollen",1.6
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Pollen",1.2
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Pollen",8
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Pollen",1
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Pollen",1.1
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Pollen",2
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Pollen",
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Pollen",
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Pollen",
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Pollen",12
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Pollen",2.1
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Pollen",1.4
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Pollen",5.5
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Pollen",15
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Pollen",3.3
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Pollen",1.3
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Pollen",1.9
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Pollen",7
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Pollen",1.2
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Pollen",7
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Pollen",1.6
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Pollen",7
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Pollen",1.3
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Pollen",1.8
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Pollen",
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Pollen",
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Pollen",
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Pollen",1.6
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Pollen",1.3
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Pollen",5
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Pollen",1.3
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Pollen",6
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Pollen",1.8
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Pollen",1.2
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Pollen",5
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Pollen",1.4
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Pollen",4.6
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Pollen",13
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Pollen",2.7
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Pollen",1.6
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Pollen",1.3
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Pollen",4
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Pollen",1.9
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Pollen",3.2
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Pollen",11
+54,"Species richness",-2,103.3,10,"Control",,,0,"Pollen",10
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Pollen",1.3
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Pollen",1.8
+55,"Species richness",-2,103.3,10,"Control",,,0,"Pollen",7
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Pollen",1.6
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Pollen",1.2
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Pollen",1.5
+56,"Species richness",-2,103.2,10,"Control",,,0,"Pollen",6
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Pollen",1.2
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Seeds",15
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Seeds",1.9
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Seeds",2.5
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Seeds",12
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Seeds",1.3
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Seeds",1.1
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Seeds",2.4
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Seeds",17
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Seeds",1.6
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Seeds",1.9
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Seeds",2.4
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Seeds",17
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Seeds",1.2
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Seeds",25
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Seeds",1.5
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Seeds",17
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Seeds",1.2
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Seeds",1.6
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Seeds",4.4
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Seeds",2.5
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Seeds",21
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Seeds",1.4
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Seeds",1.1
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Seeds",21
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Seeds",1.8
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Seeds",16
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Seeds",2.5
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Seeds",1.1
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Seeds",27
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Seeds",1.3
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Seeds",1.6
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Seeds",19
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Seeds",1.2
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Seeds",1.4
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Seeds",1.1
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Seeds",24
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Seeds",1.3
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Seeds",1.8
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Seeds",17
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Seeds",17
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Seeds",1.1
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Seeds",1.4
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Seeds",20
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Seeds",1.2
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Seeds",1.1
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Seeds",1.1
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Seeds",17
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Seeds",1
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Seeds",1.1
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Seeds",1.3
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Seeds",26
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Seeds",1.1
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Seeds",16
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Seeds",1.2
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Seeds",1.1
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Seeds",15
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Seeds",1.2
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Seeds",1.5
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Seeds",2.3
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Seeds",21
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Seeds",2.5
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Seeds",14
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Seeds",1.7
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Seeds",11
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Seeds",1.2
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Seeds",1.6
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Seeds",18
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Seeds",1.2
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Seeds",1.6
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Seeds",1.1
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Seeds",1.2
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Seeds",12
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Seeds",1.1
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Seeds",10
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Seeds",1
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Seeds",1
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Seeds",1.1
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Seeds",12
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Seeds",2.1
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Seeds",14
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Seeds",1.6
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Seeds",12
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Seeds",1.2
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Seeds",1.5
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Seeds",2.4
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Seeds",9
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Seeds",2.1
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Seeds",11
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Seeds",1.9
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Seeds",3
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Seeds",2.3
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Seeds",2.8
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Seeds",17
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Seeds",29
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Seeds",1.5
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Seeds",2.4
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Seeds",1.1
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Seeds",1.3
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Seeds",12
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Seeds",3.4
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Seeds",22
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Seeds",2.4
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Seeds",1.5
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Seeds",13
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Seeds",1.2
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Seeds",24
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Seeds",1.1
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Seeds",1.3
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Seeds",1.1
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Seeds",1.2
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Seeds",14
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Seeds",4.6
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Seeds",2.8
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Seeds",29
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Seeds",1.3
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Seeds",1.1
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Seeds",15
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Seeds",1
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Seeds",1.1
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Seeds",15
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Seeds",20
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Seeds",3.8
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Seeds",4.9
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Seeds",21
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Seeds",1.4
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Seeds",1.1
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Seeds",1.9
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Seeds",19
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Seeds",1.4
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Seeds",1
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Seeds",1.2
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Seeds",18
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Seeds",1.4
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Seeds",18
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Seeds",1.9
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Seeds",15
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Seeds",2.5
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Seeds",3.4
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Seeds",2.9
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Seeds",2
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Seeds",13
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Seeds",1.6
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Seeds",1.2
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Seeds",16
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Seeds",3.3
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Seeds",21
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Seeds",4.7
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Seeds",3.1
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Seeds",26
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Seeds",4.2
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Seeds",1.4
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Seeds",12
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Seeds",1.1
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Seeds",2.4
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Seeds",1.6
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Seeds",22
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Seeds",4.1
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Seeds",6.9
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Seeds",16
+54,"Species richness",-2,103.3,10,"Control",,,0,"Seeds",13
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Seeds",1.8
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Seeds",2.9
+55,"Species richness",-2,103.3,10,"Control",,,0,"Seeds",13
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Seeds",2.1
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Seeds",1.4
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Seeds",3.8
+56,"Species richness",-2,103.2,10,"Control",,,0,"Seeds",13
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Seeds",2.9
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Trees",5.2
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Trees",2.2
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Trees",3
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Trees",8.1
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Trees",6.4
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Trees",5.4
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Trees",4
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Trees",5.8
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Trees",3.2
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Trees",1.8
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Trees",2.2
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Trees",3.5
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Trees",2.2
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Trees",3.5
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Trees",2.4
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Trees",2
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Trees",1.8
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Trees",1.9
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Trees",4.7
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Trees",3.9
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Trees",6.4
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Trees",0
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Trees",0
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Trees",0
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Trees",2.9
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Trees",5.7
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Trees",3.8
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Trees",2.7
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Trees",5.5
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Trees",3.4
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Trees",6.1
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Trees",8.8
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Trees",4.3
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Trees",2.8
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Trees",2.2
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Trees",4.7
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Trees",2.8
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Trees",2.5
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Trees",2.3
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Trees",3.9
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Trees",1.8
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Trees",2.6
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Trees",5.2
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Trees",4.1
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Trees",3.4
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Trees",4.8
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Trees",4.5
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Trees",5
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Trees",2.7
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Trees",3.3
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Trees",4.7
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Trees",5
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Trees",4.5
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Trees",4.8
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Trees",5
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Trees",12.1
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Trees",7.9
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Trees",2.3
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Trees",3
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Trees",5.4
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Trees",0
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Trees",0
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Trees",0
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Trees",1
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Trees",1
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Trees",1
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Trees",6.8
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Trees",4.3
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Trees",5.1
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Trees",5.3
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Trees",6.7
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Trees",9.1
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Trees",2.5
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Trees",2.3
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Trees",2.8
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Trees",1.6
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Trees",2
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Trees",3.5
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Trees",9.4
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Trees",9.1
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Trees",9.1
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Trees",3.9
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Trees",1.7
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Trees",2.4
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Trees",4.3
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Trees",6
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Trees",3.5
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Trees",3
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Trees",1.3
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Trees",1.6
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Trees",0
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Trees",0
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Trees",0
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Trees",5
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Trees",2.4
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Trees",3.1
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Trees",2.6
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Trees",3.9
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Trees",7.1
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Trees",4.8
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Trees",4.5
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Trees",5
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Trees",4
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Trees",6.1
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Trees",3.1
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Trees",8.1
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Trees",3.6
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Trees",5.2
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Trees",1
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Trees",1
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Trees",1
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Trees",2.9
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Trees",2
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Trees",5.4
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Trees",1
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Trees",1
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Trees",1
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Trees",1
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Trees",1
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Trees",1
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Trees",3
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Trees",2.4
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Trees",2.6
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Trees",0
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Trees",0
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Trees",0
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Trees",3
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Trees",5.9
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Trees",2
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Trees",2.8
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Trees",2.5
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Trees",2.3
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Trees",4.9
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Trees",6.9
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Trees",5.6
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Trees",12.4
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Trees",8.5
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Trees",10.2
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Trees",2
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Trees",1.4
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Trees",3.8
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Trees",3.6
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Trees",2.8
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Trees",5.4
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Trees",1.9
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Trees",5.5
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Trees",2.8
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Trees",2.1
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Trees",3.4
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Trees",2.7
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Trees",1.5
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Trees",3.4
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Trees",1.2
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Trees",5.3
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Trees",4
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Trees",7.8
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Trees",0
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Trees",0
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Trees",0
+54,"Species richness",-2,103.3,10,"Control",,,0,"Trees",0
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Trees",0
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Trees",0
+55,"Species richness",-2,103.3,10,"Control",,,0,"Trees",0
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Trees",0
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Trees",0
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Trees",0
+56,"Species richness",-2,103.2,10,"Control",,,0,"Trees",0
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Trees",0
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Soil fauna",20
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil fauna",5.6
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil fauna",8.4
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fauna",17
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fauna",7.3
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fauna",4.4
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil fauna",5.1
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Soil fauna",18
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil fauna",3.3
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil fauna",3.4
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil fauna",5.1
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Soil fauna",19
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil fauna",2.8
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Soil fauna",17
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil fauna",4.5
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Soil fauna",18
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil fauna",5.1
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil fauna",7.5
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fauna",6
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fauna",4.3
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fauna",15
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil fauna",5.4
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil fauna",4.2
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Soil fauna",14
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fauna",3.6
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fauna",16
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fauna",5.6
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil fauna",5.6
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Soil fauna",19
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil fauna",7.9
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil fauna",5.7
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Soil fauna",11
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil fauna",3.9
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil fauna",7.6
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil fauna",5.3
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Soil fauna",17
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil fauna",3.5
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil fauna",5.1
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Soil fauna",20
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Soil fauna",21
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil fauna",4
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil fauna",6.7
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Soil fauna",16
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil fauna",6.1
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil fauna",4.4
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fauna",5
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fauna",20
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fauna",3.2
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil fauna",2.6
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil fauna",4.4
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Soil fauna",17
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil fauna",2.9
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Soil fauna",17
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil fauna",4.9
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fauna",2.5
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fauna",16
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fauna",4.5
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil fauna",4.2
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil fauna",6.2
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Soil fauna",15
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fauna",5.2
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fauna",18
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fauna",3.8
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Soil fauna",14
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil fauna",5.2
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil fauna",6.7
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fauna",13
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fauna",3.2
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fauna",4.4
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil fauna",4.1
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil fauna",5.8
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Soil fauna",18
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil fauna",6.4
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Soil fauna",16
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil fauna",4.1
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil fauna",6.1
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil fauna",8.2
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Soil fauna",16
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil fauna",7.6
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Soil fauna",21
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil fauna",5.1
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Soil fauna",16
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Soil fauna",3.2
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Soil fauna",5
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fauna",5.9
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fauna",18
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fauna",3.4
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Soil fauna",15
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil fauna",5
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil fauna",6.8
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil fauna",3.2
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil fauna",5.3
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Soil fauna",19
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Soil fauna",16
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil fauna",2.6
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil fauna",4.2
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil fauna",4.1
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil fauna",5.5
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Soil fauna",15
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Soil fauna",5.9
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Soil fauna",15
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Soil fauna",4
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Soil fauna",5.9
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Soil fauna",14
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Soil fauna",4.2
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Soil fauna",19
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Soil fauna",6.4
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Soil fauna",8.4
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Soil fauna",4.6
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Soil fauna",6.4
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Soil fauna",11
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Soil fauna",7.4
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Soil fauna",5
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Soil fauna",20
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Soil fauna",6.5
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Soil fauna",4.9
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Soil fauna",17
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Soil fauna",4.5
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Soil fauna",6.4
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Soil fauna",18
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Soil fauna",17
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Soil fauna",4.7
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Soil fauna",7.6
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Soil fauna",15
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Soil fauna",4.1
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Soil fauna",2.8
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil fauna",7.1
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Soil fauna",16
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil fauna",5
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil fauna",5
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil fauna",7.2
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Soil fauna",18
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Soil fauna",4.9
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Soil fauna",15
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Soil fauna",6.5
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Soil fauna",17
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Soil fauna",4.4
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Soil fauna",6.6
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Soil fauna",8.4
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Soil fauna",5.6
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Soil fauna",21
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil fauna",5.2
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil fauna",3.6
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Soil fauna",15
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Soil fauna",5.6
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Soil fauna",16
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Soil fauna",7.4
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fauna",1.9
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fauna",10
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fauna",2.7
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Soil fauna",7.8
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Soil fauna",21
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Soil fauna",5.1
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Soil fauna",6.5
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Soil fauna",4.4
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Soil fauna",18
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Soil fauna",2.9
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Soil fauna",4.6
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Soil fauna",14
+54,"Species richness",-2,103.3,10,"Control",,,0,"Soil fauna",14
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil fauna",4.2
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil fauna",5.8
+55,"Species richness",-2,103.3,10,"Control",,,0,"Soil fauna",19
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil fauna",5
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil fauna",3.3
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Soil fauna",5.2
+56,"Species richness",-2,103.2,10,"Control",,,0,"Soil fauna",16
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Soil fauna",3
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Soil bacteria",14746
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil bacteria",822.4
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil bacteria",3373.3
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Soil bacteria",20693
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil bacteria",5942.6
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil bacteria",1545.5
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil bacteria",6692.6
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Soil bacteria",22890
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil bacteria",1908.1
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil bacteria",1489
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil bacteria",5228.1
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Soil bacteria",17680
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil bacteria",1392.7
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Soil bacteria",18918
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil bacteria",5058.5
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Soil bacteria",14077
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil bacteria",898
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil bacteria",3332.5
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil bacteria",2036
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil bacteria",583.4
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Soil bacteria",10449
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil bacteria",2305.2
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil bacteria",748.8
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Soil bacteria",9645
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil bacteria",1058.8
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Soil bacteria",11354
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil bacteria",2919
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil bacteria",1221.1
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Soil bacteria",11375
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil bacteria",3158.4
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil bacteria",4781.7
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Soil bacteria",15238
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil bacteria",1778.3
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil bacteria",4360.2
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil bacteria",1208.8
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Soil bacteria",15333
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil bacteria",783.8
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil bacteria",3300.6
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Soil bacteria",13494
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Soil bacteria",12837
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil bacteria",696.7
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil bacteria",3039.7
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Soil bacteria",12804
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil bacteria",2678.7
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil bacteria",676.9
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil bacteria",2054.5
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Soil bacteria",10603
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil bacteria",522.5
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil bacteria",918.4
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil bacteria",3101.6
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Soil bacteria",13322
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil bacteria",931.5
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Soil bacteria",12672
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil bacteria",3074.8
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil bacteria",663.9
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil bacteria",9929
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil bacteria",2201.6
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil bacteria",732.3
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil bacteria",2662.4
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Soil bacteria",11857
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil bacteria",2171
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil bacteria",11381
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil bacteria",414.2
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Soil bacteria",11087
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil bacteria",351.8
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil bacteria",2057.1
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil bacteria",15168
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil bacteria",589.2
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil bacteria",3624.4
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil bacteria",1270.2
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil bacteria",4607.7
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Soil bacteria",16078
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil bacteria",4436.7
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Soil bacteria",15861
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil bacteria",1391.3
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil bacteria",1367.7
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil bacteria",4446.6
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Soil bacteria",16724
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil bacteria",4692.7
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Soil bacteria",17002
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil bacteria",1451.9
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Soil bacteria",14635
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Soil bacteria",1017.4
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Soil bacteria",3539.8
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil bacteria",3877.2
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Soil bacteria",16831
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil bacteria",1118.4
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Soil bacteria",15438
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil bacteria",784.7
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil bacteria",3113.3
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil bacteria",677.8
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil bacteria",2511.6
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Soil bacteria",12981
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Soil bacteria",14015
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil bacteria",798.2
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil bacteria",3297.4
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil bacteria",901.2
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil bacteria",3706.9
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Soil bacteria",14353
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Soil bacteria",3660.2
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Soil bacteria",14028
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Soil bacteria",854.2
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Soil bacteria",4121.6
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Soil bacteria",14042
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Soil bacteria",1263.8
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Soil bacteria",12636
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Soil bacteria",692.4
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Soil bacteria",2997.5
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Soil bacteria",664.3
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Soil bacteria",2656.2
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Soil bacteria",11896
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Soil bacteria",3322.5
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Soil bacteria",877.4
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Soil bacteria",13250
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Soil bacteria",3489.2
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Soil bacteria",994.1
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Soil bacteria",14257
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Soil bacteria",1194.4
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Soil bacteria",3632.3
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Soil bacteria",14560
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Soil bacteria",15932
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Soil bacteria",1181.9
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Soil bacteria",3607.9
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Soil bacteria",14729
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Soil bacteria",3243.6
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Soil bacteria",1036.9
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil bacteria",3196.6
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Soil bacteria",15015
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil bacteria",958.7
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil bacteria",1165.6
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil bacteria",3617.1
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Soil bacteria",15490
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Soil bacteria",949.7
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Soil bacteria",15332
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Soil bacteria",3414.2
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Soil bacteria",13900
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Soil bacteria",837.4
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Soil bacteria",3072
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Soil bacteria",3499.9
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Soil bacteria",787.5
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Soil bacteria",15715
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil bacteria",3229.5
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil bacteria",672.8
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Soil bacteria",15633
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Soil bacteria",523.8
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Soil bacteria",13570
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Soil bacteria",2565.6
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil bacteria",638.4
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil bacteria",15089
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil bacteria",2839
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Soil bacteria",3216.4
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Soil bacteria",15198
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Soil bacteria",910.7
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Soil bacteria",2998.2
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Soil bacteria",928.5
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Soil bacteria",13594
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Soil bacteria",1067
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Soil bacteria",3480
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Soil bacteria",15051
+54,"Species richness",-2,103.3,10,"Control",,,0,"Soil bacteria",13892
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil bacteria",963
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil bacteria",3343.4
+55,"Species richness",-2,103.3,10,"Control",,,0,"Soil bacteria",13374
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil bacteria",3374.1
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil bacteria",1055.2
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Soil bacteria",2936.9
+56,"Species richness",-2,103.2,10,"Control",,,0,"Soil bacteria",13517
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Soil bacteria",705.9
+1,"Species richness",-1.9,103.3,40,"Island",1,"A",400,"Soil fungi",1141
+1,"Simpson diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil fungi",20.9
+1,"Shannon diversity",-1.9,103.3,40,"Island",1,"A",400,"Soil fungi",118.4
+2,"Species richness",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fungi",1531
+2,"Shannon diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fungi",191.3
+2,"Simpson diversity",-1.9,103.3,20,"Island",3,"ACF",99,"Soil fungi",58.8
+3,"Shannon diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil fungi",125.2
+3,"Species richness",-1.9,103.3,20,"Island",2,"CD",100,"Soil fungi",1197
+3,"Simpson diversity",-1.9,103.3,20,"Island",2,"CD",100,"Soil fungi",26.7
+4,"Simpson diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil fungi",34.2
+4,"Shannon diversity",-1.9,103.3,10,"Island",1,"F",25,"Soil fungi",116.3
+4,"Species richness",-1.9,103.3,10,"Island",1,"F",25,"Soil fungi",1320
+5,"Simpson diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil fungi",30.4
+5,"Species richness",-1.9,103.3,40,"Island",1,"B",400,"Soil fungi",1177
+5,"Shannon diversity",-1.9,103.3,40,"Island",1,"B",400,"Soil fungi",142.9
+6,"Species richness",-1.9,103.3,5,"Island",1,"E",6,"Soil fungi",1306
+6,"Simpson diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil fungi",72.1
+6,"Shannon diversity",-1.9,103.3,5,"Island",1,"E",6,"Soil fungi",239.7
+7,"Shannon diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fungi",200.4
+7,"Simpson diversity",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fungi",62.7
+7,"Species richness",-1.9,103.3,40,"Island",3,"AEF",399,"Soil fungi",1310
+8,"Shannon diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil fungi",173.9
+8,"Simpson diversity",-1.9,103.2,5,"Island",1,"F",6,"Soil fungi",45.4
+8,"Species richness",-1.9,103.2,5,"Island",1,"F",6,"Soil fungi",1274
+9,"Simpson diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fungi",47.8
+9,"Species richness",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fungi",1477
+9,"Shannon diversity",-1.9,103.3,10,"Island",3,"ABD",24,"Soil fungi",177.5
+10,"Simpson diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil fungi",73.6
+10,"Species richness",-1.9,103.3,20,"Island",0,"Z",0,"Soil fungi",1389
+10,"Shannon diversity",-1.9,103.3,20,"Island",0,"Z",0,"Soil fungi",216.2
+11,"Shannon diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil fungi",178.9
+11,"Species richness",-1.9,103.3,10,"Island",1,"D",25,"Soil fungi",982
+11,"Simpson diversity",-1.9,103.3,10,"Island",1,"D",25,"Soil fungi",65.7
+12,"Shannon diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil fungi",259.6
+12,"Simpson diversity",-1.9,103.3,20,"Island",1,"C",100,"Soil fungi",90.3
+12,"Species richness",-1.9,103.3,20,"Island",1,"C",100,"Soil fungi",1442
+13,"Simpson diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil fungi",43.1
+13,"Shannon diversity",-1.9,103.3,10,"Island",1,"E",25,"Soil fungi",152.9
+13,"Species richness",-1.9,103.3,10,"Island",1,"E",25,"Soil fungi",1391
+14,"Species richness",-1.9,103.2,10,"Island",1,"C",25,"Soil fungi",1718
+14,"Simpson diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil fungi",49
+14,"Shannon diversity",-1.9,103.2,10,"Island",1,"C",25,"Soil fungi",166.2
+15,"Species richness",-1.9,103.3,20,"Island",1,"B",100,"Soil fungi",1580
+15,"Shannon diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil fungi",134.8
+15,"Simpson diversity",-1.9,103.3,20,"Island",1,"B",100,"Soil fungi",27.7
+16,"Shannon diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fungi",170.8
+16,"Species richness",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fungi",1145
+16,"Simpson diversity",-1.9,103.3,5,"Island",3,"ACD",6,"Soil fungi",54.3
+17,"Simpson diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil fungi",61.5
+17,"Shannon diversity",-1.9,103.3,20,"Island",1,"F",100,"Soil fungi",211
+17,"Species richness",-1.9,103.3,20,"Island",1,"F",100,"Soil fungi",1752
+18,"Simpson diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil fungi",8.6
+18,"Species richness",-1.9,103.3,5,"Island",2,"DE",6,"Soil fungi",1442
+18,"Shannon diversity",-1.9,103.3,5,"Island",2,"DE",6,"Soil fungi",76.3
+19,"Simpson diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fungi",72.5
+19,"Species richness",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fungi",1578
+19,"Shannon diversity",-1.9,103.3,20,"Island",6,"ABCDEF",96,"Soil fungi",227
+20,"Simpson diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil fungi",49.6
+20,"Shannon diversity",-1.9,103.3,10,"Island",1,"B",25,"Soil fungi",252.1
+20,"Species richness",-1.9,103.3,10,"Island",1,"B",25,"Soil fungi",2006
+21,"Shannon diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fungi",87.9
+21,"Species richness",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fungi",1409
+21,"Simpson diversity",-1.9,103.2,10,"Island",6,"ABCDEF",24,"Soil fungi",14
+22,"Species richness",-1.9,103.2,5,"Island",2,"BF",6,"Soil fungi",1554
+22,"Simpson diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil fungi",89.9
+22,"Shannon diversity",-1.9,103.2,5,"Island",2,"BF",6,"Soil fungi",244.7
+23,"Species richness",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fungi",1276
+23,"Simpson diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fungi",47.3
+23,"Shannon diversity",-1.9,103.3,40,"Island",6,"ABCDEF",396,"Soil fungi",149.5
+24,"Simpson diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil fungi",37.2
+24,"Shannon diversity",-1.9,103.3,40,"Island",2,"CE",400,"Soil fungi",145
+24,"Species richness",-1.9,103.3,40,"Island",2,"CE",400,"Soil fungi",1568
+25,"Shannon diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil fungi",212.5
+25,"Species richness",-1.9,103.3,5,"Island",1,"A",6,"Soil fungi",1466
+25,"Simpson diversity",-1.9,103.3,5,"Island",1,"A",6,"Soil fungi",54.6
+26,"Simpson diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil fungi",94.7
+26,"Shannon diversity",-1.9,103.3,40,"Island",2,"DF",400,"Soil fungi",257.2
+26,"Species richness",-1.9,103.3,40,"Island",2,"DF",400,"Soil fungi",1580
+27,"Shannon diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil fungi",202.9
+27,"Species richness",-1.9,103.2,10,"Island",2,"AE",24,"Soil fungi",1522
+27,"Simpson diversity",-1.9,103.2,10,"Island",2,"AE",24,"Soil fungi",65
+28,"Species richness",-2,103.2,5,"Island",1,"B",6,"Soil fungi",1517
+28,"Simpson diversity",-2,103.2,5,"Island",1,"B",6,"Soil fungi",41.2
+28,"Shannon diversity",-2,103.2,5,"Island",1,"B",6,"Soil fungi",158.9
+29,"Shannon diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fungi",218.8
+29,"Species richness",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fungi",1851
+29,"Simpson diversity",-1.9,103.2,40,"Island",3,"BCD",399,"Soil fungi",36.4
+30,"Species richness",-1.9,103.3,20,"Island",1,"E",100,"Soil fungi",1331
+30,"Simpson diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil fungi",57.6
+30,"Shannon diversity",-1.9,103.3,20,"Island",1,"E",100,"Soil fungi",226.4
+31,"Simpson diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil fungi",64.2
+31,"Shannon diversity",-1.9,103.3,5,"Island",1,"C",6,"Soil fungi",230.8
+31,"Species richness",-1.9,103.3,5,"Island",1,"C",6,"Soil fungi",1805
+32,"Species richness",-1.9,103.3,10,"Island",2,"CF",24,"Soil fungi",1348
+32,"Simpson diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil fungi",25.1
+32,"Shannon diversity",-1.9,103.3,10,"Island",2,"CF",24,"Soil fungi",81.4
+33,"Simpson diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil fungi",69
+33,"Shannon diversity",-2,103.3,20,"Island",3,"BDE",99,"Soil fungi",197
+33,"Species richness",-2,103.3,20,"Island",3,"BDE",99,"Soil fungi",1629
+34,"Shannon diversity",-2,103.2,10,"Island",2,"BD",24,"Soil fungi",199.5
+34,"Species richness",-2,103.2,10,"Island",2,"BD",24,"Soil fungi",1674
+34,"Simpson diversity",-2,103.2,10,"Island",2,"BD",24,"Soil fungi",64.5
+35,"Shannon diversity",-2,103.2,40,"Island",0,"Z",0,"Soil fungi",155.8
+35,"Species richness",-2,103.2,40,"Island",0,"Z",0,"Soil fungi",1653
+35,"Simpson diversity",-2,103.2,40,"Island",0,"Z",0,"Soil fungi",42.5
+36,"Species richness",-2,103.2,20,"Island",2,"AF",100,"Soil fungi",1632
+36,"Simpson diversity",-2,103.2,20,"Island",2,"AF",100,"Soil fungi",56.1
+36,"Shannon diversity",-2,103.2,20,"Island",2,"AF",100,"Soil fungi",183.7
+37,"Simpson diversity",-2,103.2,10,"Island",0,"Z",0,"Soil fungi",24.2
+37,"Shannon diversity",-2,103.2,10,"Island",0,"Z",0,"Soil fungi",108.1
+37,"Species richness",-2,103.2,10,"Island",0,"Z",0,"Soil fungi",1561
+38,"Shannon diversity",-2,103.3,20,"Island",1,"D",100,"Soil fungi",179.6
+38,"Simpson diversity",-2,103.3,20,"Island",1,"D",100,"Soil fungi",60.2
+38,"Species richness",-2,103.3,20,"Island",1,"D",100,"Soil fungi",1640
+39,"Shannon diversity",-2,103.3,5,"Island",2,"AC",6,"Soil fungi",224.1
+39,"Simpson diversity",-2,103.3,5,"Island",2,"AC",6,"Soil fungi",75.4
+39,"Species richness",-2,103.3,5,"Island",2,"AC",6,"Soil fungi",1811
+40,"Simpson diversity",-2,103.3,5,"Island",0,"Z",0,"Soil fungi",69.5
+40,"Shannon diversity",-2,103.3,5,"Island",0,"Z",0,"Soil fungi",210.5
+40,"Species richness",-2,103.3,5,"Island",0,"Z",0,"Soil fungi",1731
+41,"Species richness",-2,103.2,10,"Island",1,"A",25,"Soil fungi",1653
+41,"Simpson diversity",-2,103.2,10,"Island",1,"A",25,"Soil fungi",55.7
+41,"Shannon diversity",-2,103.2,10,"Island",1,"A",25,"Soil fungi",208
+42,"Species richness",-2,103.2,5,"Island",1,"D",6,"Soil fungi",1451
+42,"Shannon diversity",-2,103.2,5,"Island",1,"D",6,"Soil fungi",185.3
+42,"Simpson diversity",-2,103.2,5,"Island",1,"D",6,"Soil fungi",50
+43,"Shannon diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil fungi",205
+43,"Species richness",-1.9,103.3,40,"Island",1,"C",400,"Soil fungi",1417
+43,"Simpson diversity",-1.9,103.3,40,"Island",1,"C",400,"Soil fungi",66.3
+44,"Simpson diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil fungi",49.1
+44,"Shannon diversity",-2,103.2,5,"Island",3,"BEF",6,"Soil fungi",159.7
+44,"Species richness",-2,103.2,5,"Island",3,"BEF",6,"Soil fungi",1497
+45,"Simpson diversity",-2,103.2,40,"Island",1,"E",400,"Soil fungi",59.5
+45,"Species richness",-2,103.2,40,"Island",1,"E",400,"Soil fungi",1491
+45,"Shannon diversity",-2,103.2,40,"Island",1,"E",400,"Soil fungi",155.1
+46,"Species richness",-2,103.2,40,"Island",2,"AB",400,"Soil fungi",1764
+46,"Simpson diversity",-2,103.2,40,"Island",2,"AB",400,"Soil fungi",42.6
+46,"Shannon diversity",-2,103.2,40,"Island",2,"AB",400,"Soil fungi",150.6
+47,"Shannon diversity",-2,103.2,20,"Island",2,"BE",100,"Soil fungi",201.3
+47,"Simpson diversity",-2,103.2,20,"Island",2,"BE",100,"Soil fungi",58.9
+47,"Species richness",-2,103.2,20,"Island",2,"BE",100,"Soil fungi",1996
+48,"Shannon diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil fungi",130.1
+48,"Simpson diversity",-2,103.2,10,"Island",3,"CEF",24,"Soil fungi",19.8
+48,"Species richness",-2,103.2,10,"Island",3,"CEF",24,"Soil fungi",1819
+49,"Simpson diversity",-2,103.2,40,"Island",1,"F",400,"Soil fungi",49.3
+49,"Species richness",-2,103.2,40,"Island",1,"F",400,"Soil fungi",1371
+49,"Shannon diversity",-2,103.2,40,"Island",1,"F",400,"Soil fungi",188.4
+50,"Simpson diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fungi",13.5
+50,"Species richness",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fungi",1282
+50,"Shannon diversity",-2,103.2,5,"Island",6,"ABCDEF",6,"Soil fungi",71.8
+51,"Shannon diversity",-2,103.2,20,"Island",1,"A",100,"Soil fungi",86.4
+51,"Species richness",-2,103.2,20,"Island",1,"A",100,"Soil fungi",1372
+51,"Simpson diversity",-2,103.2,20,"Island",1,"A",100,"Soil fungi",12.5
+52,"Shannon diversity",-2,103.2,40,"Island",1,"D",400,"Soil fungi",111
+52,"Simpson diversity",-2,103.2,40,"Island",1,"D",400,"Soil fungi",31.6
+52,"Species richness",-2,103.2,40,"Island",1,"D",400,"Soil fungi",1446
+53,"Simpson diversity",-1.9,103.3,10,"Control",,,0,"Soil fungi",54.7
+53,"Shannon diversity",-1.9,103.3,10,"Control",,,0,"Soil fungi",167.2
+53,"Species richness",-1.9,103.3,10,"Control",,,0,"Soil fungi",1599
+54,"Species richness",-2,103.3,10,"Control",,,0,"Soil fungi",1044
+54,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil fungi",16.5
+54,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil fungi",98.5
+55,"Species richness",-2,103.3,10,"Control",,,0,"Soil fungi",1628
+55,"Shannon diversity",-2,103.3,10,"Control",,,0,"Soil fungi",158.2
+55,"Simpson diversity",-2,103.3,10,"Control",,,0,"Soil fungi",32
+56,"Shannon diversity",-2,103.2,10,"Control",,,0,"Soil fungi",227
+56,"Species richness",-2,103.2,10,"Control",,,0,"Soil fungi",1563
+56,"Simpson diversity",-2,103.2,10,"Control",,,0,"Soil fungi",77.8
